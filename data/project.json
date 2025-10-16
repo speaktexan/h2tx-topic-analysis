@@ -16,7 +16,7 @@
     "github_org": "speaktexan",
     "is_private": false,
     "title": "North Texas Topic Analysis",
-    "description": "This page demonstrates a topic-coded interview from North Texas, conducted by a student at UT Austin in the context of the Home To Texas program. Questions in this interview centered on change in the community over the decades, the community's sense of identity, and the participants' own biographies and experience. Near the end, a reading passage is included. \n\nTopic coding was applied for this set of nine topics: \n\n1.\nChange\n\nAspects of community life that have transformed (culture, economy, demographics).\n\n\n2.\n\nIdentity\n\nStatements defining \"who we are\" or \"who they are\" (culture, ethnicity, history, place-based).\n\n\n3.\n\nDiversity\n\nDirect discussion of the community's ethnic or cultural composition.\n\n\n4.\nFuture\nStatements, worried or optimistic, about what will happen next for the self or the community.\n5.\nSense of Place\nDescriptions of the community's physical qualities, local atmosphere, or unique character/feeling.\n6.\nLivelihood & Economy\nDiscussion of the current state of work, industry, and financial well-being (jobs, wages, cost of living).\n7.\nLocal Governance\nDiscussion of the quality and function of civic institutions, leaders, and administration (e.g., elected officials, city council).\n8.\nInfrastructure & Services\nDiscussion of specific physical systems and tangible services (e.g., roads, water, power grid, schools, traffic, internet).\n9.\nGenerational Relations\nDiscussion of relationships, values, or conflicts between different age cohorts (young vs. old).",
+    "description": "This page demonstrates a topic-coded interview from North Texas, conducted by a student at UT Austin in the context of the Home To Texas program. Questions centered on change in the community over the decades, the community's sense of identity, and the participants' own biographies and experience. \n\nTopic coding was applied for this set of nine topics: 1. change, 2. identity, 3. diversity, 4. future, 5. sense of place, 6. livelihood/economy, 7. local governance, 8.infrastructure/services, and 9. generational relations. \n\n- Near the end, a reading passage is included. ",
     "language": "en",
     "slug": "h2tx-topic-analysis",
     "creator": "speaktexan",
@@ -87,7 +87,7 @@
       ]
     },
     "created_at": "2025-10-14T21:31:45.631Z",
-    "updated_at": "2025-10-16T18:33:54.608Z",
+    "updated_at": "2025-10-16T21:28:55.671Z",
     "generate_pages_site": true
   },
   "annotations": {},
