@@ -35,11 +35,11 @@
   "created_by": "speaktexan",
   "title": "H2TX & TELL: North Texas Topic Analysis",
   "slug": "h2tx-and-tell-north-texas-topic-analysis",
-  "updated_at": "2025-10-16T18:33:31.626Z",
+  "updated_at": "2025-10-16T18:33:53.452Z",
   "updated_by": "speaktexan",
   "parent": "91180f1f-cb6b-424b-89d2-b91f5e2fe009",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "70f63f7e-8970-4c5a-8817-70a113842947"
   }
