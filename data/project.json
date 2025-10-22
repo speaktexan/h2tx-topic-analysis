@@ -1,1 +1,121 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"speaktexan","avatar_url":"https://avatars.githubusercontent.com/u/189292304?v=4","admin":true}],"project":{"github_org":"speaktexan","is_private":false,"title":"North Texas Topic Analysis","description":"This page demonstrates a topic-coded interview from North Texas, conducted by a student at UT Austin in the context of the Home To Texas program. Questions centered on change in the community over the decades, the community's sense of identity, and the participants' own biographies and experience. \n\nTopic coding was applied for this set of nine topics: 1. change, 2. identity, 3. diversity, 4. future, 5. sense of place, 6. livelihood/economy, 7. local governance, 8.infrastructure/services, and 9. generational relations. \n\n- Near the end, a reading passage is included. ","language":"en","slug":"h2tx-topic-analysis","creator":"speaktexan","authors":"Lars Hinrichs, Baylee Ross, Sydney Quant, Jennifer Smith","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Speaker","color":"#ADFFD9"},{"category":"Topic","color":"#ADFEFF"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"tag":"interviewer","category":"Speaker"},{"tag":"participant","category":"Speaker"},{"tag":"spouse","category":"Speaker"},{"tag":"change","category":"Topic"},{"tag":"identity","category":"Topic"},{"tag":"diversity","category":"Topic"},{"tag":"future","category":"Topic"},{"tag":"sense of place","category":"Topic"},{"tag":"livelihood and economy","category":"Topic"},{"tag":"local governance","category":"Topic"},{"tag":"infrastructure and services","category":"Topic"},{"tag":"generational relations","category":"Topic"},{"category":"_uncategorized_","tag":"additional speaker"},{"category":"Speaker","tag":"additional speaker"}]},"created_at":"2025-10-14T21:31:45.631Z","updated_at":"2025-10-22T01:19:19.616Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"91180f1f-cb6b-424b-89d2-b91f5e2fe009":{"content":[],"created_at":"2025-10-14T21:31:45.654Z","created_by":"speaktexan","title":"North Texas Topic Analysis","updated_at":"2025-10-14T21:31:45.654Z","updated_by":"speaktexan","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["91180f1f-cb6b-424b-89d2-b91f5e2fe009"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "speaktexan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189292304?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "speaktexan",
+    "is_private": false,
+    "title": "North Texas Topic Analysis",
+    "description": "This page demonstrates a topic-coded interview from North Texas, conducted by a student at UT Austin in the context of the Home To Texas program. Questions centered on change in the community over the decades, the community's sense of identity, and the participants' own biographies and experience. \n\nTopic coding was applied for this set of nine topics: 1. change, 2. identity, 3. diversity, 4. future, 5. sense of place, 6. livelihood/economy, 7. local governance, 8.infrastructure/services, and 9. generational relations. \n\n- Near the end, a reading passage is included. ",
+    "language": "en",
+    "slug": "h2tx-topic-analysis",
+    "creator": "speaktexan",
+    "authors": "Lars Hinrichs, Baylee Ross, Sydney Quant, Jennifer Smith",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Topic",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "spouse",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        },
+        {
+          "tag": "diversity",
+          "category": "Topic"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "local governance",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        },
+        {
+          "category": "Speaker",
+          "tag": "additional speaker"
+        }
+      ]
+    },
+    "created_at": "2025-10-14T21:31:45.631Z",
+    "updated_at": "2025-10-22T01:19:25.883Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "91180f1f-cb6b-424b-89d2-b91f5e2fe009": {
+      "content": [],
+      "created_at": "2025-10-14T21:31:45.654Z",
+      "created_by": "speaktexan",
+      "title": "North Texas Topic Analysis",
+      "updated_at": "2025-10-14T21:31:45.654Z",
+      "updated_by": "speaktexan",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "91180f1f-cb6b-424b-89d2-b91f5e2fe009"
+  ]
+}
