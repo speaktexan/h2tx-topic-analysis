@@ -1,5 +1,2992 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "ca201aaf-1e7d-4b20-9158-27870bda5b85"
+    },
+    {
+      "start_time": 3,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Jennifer Smith. Today is the 22nd of July, and I'm here in Big Spring for an interview with one of our community members. Before we begin, I'd like to get verbal consent for the form we went over. Could you please say, I consent to being interviewed and audio recorded for this study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "ff73f205-57db-4ae4-9079-03227c4d8843"
+    },
+    {
+      "start_time": 20,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consent to being audio recorded for this study."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cf815e9c-5faa-4eeb-bee7-ad3ce703d739"
+    },
+    {
+      "start_time": 24,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. To get started, can you tell me about how you came to live in Big Spring?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "3f235ada-b48b-401b-83f6-aed2ce8141bd"
+    },
+    {
+      "start_time": 29,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born here. Um, my parents were in, I had a retail store."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5551b9fd-1345-4028-9eab-8bc6fd045309"
+    },
+    {
+      "start_time": 37,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, wow. Is that, uh, still around today or have they retired?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "55818ea9-b5d5-4ad4-8ba5-532699f16798"
+    },
+    {
+      "start_time": 44,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The wife and I bought the store in 78, and we sold it about five years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7df66ab3-95a6-419b-9360-13770cd8fa2c"
+    },
+    {
+      "start_time": 53,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "de8aa9b7-714e-446a-bdb2-6ba34903ac44"
+    },
+    {
+      "start_time": 55,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's in business for 94 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "cb399143-59cd-44e5-bf6e-8c0a68dcf002"
+    },
+    {
+      "start_time": 58,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, wow. Could you tell me a little bit more about this community? How would you describe it to someone who doesn't live here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "3b42a871-1e01-48ef-8e33-1d2714da6a0c"
+    },
+    {
+      "start_time": 67,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, it's, it's, uh, uh, it's a good place to live. It's an interesting town. Uh, when we, when I was growing up here, we had the air base here, so we had people from all over the country, uh, in and out. And so it was, I went to school with people from all over the country. And, uh, we also had the airmen here that, uh, you know, we also, you know, were in, in our community that we got to communicate, visit with. And, uh, so it was, uh, it was an interesting place to be, uh, big Spring because of the air base. I think, uh, people all over the country were kind of familiar with it because so many people have been in and out of here with the base, but, uh, it's a big enough town to have most of the things that you'd want to do in a town and, and yet small enough to still be a, a small town atmosphere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "diversity",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "40a1d192-837a-4e18-80de-8a20c185423a"
+    },
+    {
+      "start_time": 132,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I will say I've met a lot of, uh, people just out and about. It seems like everywhere we go, we find somebody who's from Big Spring has family in Big Spring."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "93a4dea7-3a10-47ff-93b1-9ac1a4f91ddb"
+    },
+    {
+      "start_time": 143,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "32ad465b-acb1-4b51-9cad-6e8fa66a0762"
+    },
+    {
+      "start_time": 145,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you, would you say the, uh, community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "7661ba84-19c6-4793-8d25-ed2cc04d782e"
+    },
+    {
+      "start_time": 151,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, of course, when the, uh, the biggest change probably was when the air bases closed because our, our population dropped fairly dramatically. Uh, kind of created some issues with the infrastructure of the community because we had a infrastructure for 35, 000 people, and we had 15 or 20, 000 people living here. So there was a glut of housing, and, um, there was, uh, probably not at that point enough people to, uh, keep the, all of the, uh, businesses and so forth open. So some things closed and, uh, real estate market was depressed for, for years after the closure because of the blood and housing and, uh, commercial, commercial buildings. So, used to be a really cheap place to live in some ways because of the, uh, housing costs and, uh, real estate prices. Uh, that was probably the biggest difference, biggest change. Uh, it's, um,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7ff02d98-7fcd-45f9-a47c-7babebc2141d"
+    },
+    {
+      "start_time": 217,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "kind of grown with the country. It's become, you know, at one time we were a little more, uh, separated. We had the minority community was pretty much on one side of, on the, on the, uh, north side of town. And the, and the white community was on the south side of town, and that's since changed. And now everything's kind of, uh, integrated together. So it's not, uh, separate. Like it was, we had a, originally we had a, a minority high school and a, a majority high school, and now we have one high school, so that's probably all in a good thing. Uh, and, uh, anyway, it kind of, it's kind of grown with the country and, uh, changed with the, with the country as far as, you know, things socially and politically and every other way. So, uh, in the last, uh, few years, a big change has been with the, uh, oil booms and busts. When the, uh, oil"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "diversity",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d2387e67-6ae2-4db0-bb86-a2eb979c80e8"
+    },
+    {
+      "start_time": 277,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "boom would, would come, we would, you know, money would flow and everybody was smiling. Everybody had monies, money was flowing, and then when the bus would hit, everybody was crying and poor. And, and so it was, you know, that cycle has been pretty, uh, pretty common over the last few years. We've had the boom and bust, uh, going off for, for quite a while now. And, uh, right now we're probably kind of in a semi boom, still, still good prices of oil is high and, uh, wages are good here for the most part. So it's, uh, I think, I think in some ways it's a relatively, uh, uh, comfortable community as far as you know. There, there are, you know, there are some, uh, people that are struggling, but, uh, there's plenty of jobs and wages are actually pretty good here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "84e9288f-5af0-4f57-8354-b38bd8510cb4"
+    },
+    {
+      "start_time": 339,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "44aa74dc-7fcb-4aa7-8b0a-da9b086e7190"
+    },
+    {
+      "start_time": 343,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the strength of every community is probably the people. Uh, I think we have some, we have some very talented people here in this community. Uh, the, uh, uh, a lot of people, you know, with the school systems and with the, uh, refinery and with the, uh, you know, different, uh, professions and, uh, the retail community, I think it's, uh, our retail community has suffered a little bit. We, you know, I, when I grew up here, we had, you know, four men's stores, and now there's not really one. Um, we had, uh, you know, several ladies clothing stores, and, uh, we had a bicycle shop and a gun store and gun repair store. And we had, we had, uh, you know, a, a cafeteria. We had first cafeteria, we had the malls, big malls with lots of stores, and a lot of those stores have gone away because of the,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "bd477df6-c3f2-44de-bbf1-fe5c59d501c8"
+    },
+    {
+      "start_time": 410,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a lot of reasons. But, uh, anyway, it's, uh, it's different now than it was, but, uh, we still have, we still have some good businesses here and some good, and lots of good people here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "bc2ed12a-ef50-4620-a5bc-e7ea0bc11afc"
+    },
+    {
+      "start_time": 425,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, uh, what would you say are the weaknesses?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "09dea985-2935-4a9d-8f9c-4d03f2bb8d21"
+    },
+    {
+      "start_time": 430,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the weaknesses of the community are probably the fact that we are too small to, uh, to get, you know, some of the retail. So it's, you know, and, and I, we've had issues in the last, I, when I was, you know, over the years, at one time we had like five hospitals in town, and now the hospital, the one hospital we have is struggling. Uh, we've got some doc in the boxes that popped in that kind of changed the format with how medic medical treatment is, is given. But, uh, the school system struggles a little bit, and one of the reasons for that is that, uh, a lot of the better students tend to try to move to, for San or Kama. I'm not really sure the significance of that, but, uh, it seems like we, we have an issue with,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7e59c491-5c59-43a5-bfec-e8966f752293"
+    },
+    {
+      "start_time": 495,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh, at the school systems because some of our more affluent students, uh, are moving to the small communities around us. And, um, of course, I, when I was here, we all went to the big spring schools, and so I don't completely understand that, that whole concept. But I, if I had, my, my children both went to the public schools here, but, uh, I'm not sure that my grandchildren will, they, both my grandchildren here are live, are going to a private school, uh, but they're just, just in the third grade, so that's not a huge big deal. But, uh, Anyway, probably right now the, the school system struggles a little bit. The hospital is struggling a little bit. Um, and we don't have the retail, so a lot of people have to travel to, to go shop. And if they, you know, if you, if you wanna buy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9d320372-1e1e-4baf-8a70-804bd2da3ac7"
+    },
+    {
+      "start_time": 562,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a suit, you'd probably have to drive the Midland if you want to. If a woman wants to drive, wants to buy clothes, she's probably gonna be somewhat limited in here, what she can, where she can shop. So shopping and education and hospitals probably are all a little bit weak right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "6b73d0f1-8cd0-45c3-aaaa-d0eafd94d246"
+    },
+    {
+      "start_time": 582,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about your roles and relationships you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "d35fa82d-ac8a-4631-a719-c9487072df71"
+    },
+    {
+      "start_time": 588,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My roles?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8990d101-b695-4376-8786-7abfd31eddcf"
+    },
+    {
+      "start_time": 589,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you a member of a church, maybe?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "86e275ac-12c0-4fe4-a7f4-87b192525ccb"
+    },
+    {
+      "start_time": 591,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm. Yeah. Uh, we go to the, uh, church, Christ. Mm-hmm. Uh, we went to, uh, 11th and Ville Church of Christ. When we first moved back here. We, we, we left here. My wife and I both taught school, uh, I taught school for six years, and she taught school for I think, three years. And then she started having babies. Um, I was a band director in three different communities. And, uh, then we came back to Big Spring and in, uh, 79 and, uh, bought the furniture store from my dad. And, uh, so yeah, we, I, you know, I was, we've been involved with church. I was, uh, I was in the Lions Club. I was president of the Lion Club for a while. Uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "52f12d72-92f1-4229-8682-1925b149f4b7"
+    },
+    {
+      "start_time": 651,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I started when I, at, at some point in time with my career, I stopped being running the retail store and started selling furniture wholesale. So I started traveling. And when I did that, I, I kind of dropped outta some of the Lions Club and some of the social things in town, because I was gone a lot. But, uh, I have been in somewhat active in the community as far as, you know, service clubs and Chamber commerce and stuff like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "2c7a209a-1a9e-4530-98d1-cfc2b743a9ca"
+    },
+    {
+      "start_time": 688,
+      "end_time": 695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, uh, you mentioned that you guys were teachers. Are you part of any, uh, social boards or something like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "45b3e9c1-f9d8-4a64-9562-a8273809700d"
+    },
+    {
+      "start_time": 697,
+      "end_time": 715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, we're really not. We've been out of teaching since 79, so we kind of, that's kind of a, kind of a, um, we kind of left the education field and got into the retail deal for most of our time here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "06eb6baf-e6b4-4441-b900-9366484abcea"
+    },
+    {
+      "start_time": 718,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you mentioned that you do kind of wholesale furniture. Is that still what you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "50538c74-58c7-4002-a15d-9b8ecc234e74"
+    },
+    {
+      "start_time": 724,
+      "end_time": 765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I still do a little bit of wholesale. I still have one line that I sell. Um, I semi-retired when we sold the furniture store. Uh, I think we sold the furniture store in, it's been about five years ago, so I guess it was probably 20 19, 20 18, something like that. Uh, since we sold the store, we, I've kind of backed off of the wholesale. I had two or three lines, and now I just have one. And, uh, so I don't, I still, I still do enough to say I do it, but that's about all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "0f332a76-de8f-48c5-b8c1-e70247df786f"
+    },
+    {
+      "start_time": 768,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, do you think your connections in the community influence your working with furniture?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "7a2458bf-9e52-427c-9dd7-96ee445d299a"
+    },
+    {
+      "start_time": 776,
+      "end_time": 800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it, it, uh, of course the, the wholesale furniture is a little bit different. I, I call on, uh, furniture stores in other communities, so, uh, most of the people in Big Spring probably don't even know that I'd do that. So it's not really associated with, with this community much that part of my job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "189daef6-5f61-4917-ad23-4bc129343132"
+    },
+    {
+      "start_time": 801,
+      "end_time": 802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "b9fd3fab-7083-404a-9cb1-87ff53f2a1c1"
+    },
+    {
+      "start_time": 804,
+      "end_time": 813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's interesting. I'd like to talk a little more about that. Uh, you said you bought the furniture store from your parents, right? Was it mm-hmm. A furniture store then?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "a03449a7-56a2-4e02-af82-fcf834592d5b"
+    },
+    {
+      "start_time": 814,
+      "end_time": 874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. My, my granddad started the furniture store in 1926 in Sleighton, Texas, and moved to Sweetwater and then, uh, had a store in Sweetwater in the store over here in Big Spring. And then eventually closed the Sweetwater store. He had three sons and they all worked in the store. And, uh, my dad eventually bought the other two brothers out. Uh, one opened a store in Lubbock and the other one went to work for Job Corps in, uh, the Hill Country. They both moved out of Big Spring, so my dad bought the furniture store, ran it, I worked with him in high school. I was, I did his delivery in high school. Then when, after I, I went in and got started teaching, taught for six years, and then he decided to retire, and he asked me if I wanted to come back and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d9a1aa77-a72d-4653-bd8b-1cdb3cf9d35f"
+    },
+    {
+      "start_time": 875,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "get in the furniture business. And so we had to make a decision as to whether we were gonna stay in teaching or get into retail. Uh, we, we had to kind of decide. 'cause if we didn't come back, he was gonna close the store. So, uh, we decided to give it a try. We came back and, Uh, never looked back. So we've been, been here since 79 back in the community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9f1512e9-36b8-4db3-9eea-0b26a3cc0135"
+    },
+    {
+      "start_time": 903,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you've pretty much been doing this your whole life, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "9fa15f26-3d14-4418-b836-9c19956e959b"
+    },
+    {
+      "start_time": 906,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pretty much, yeah. I, with the exception of that six year stint, uh, six years of teaching and four years of going to school, uh, the rest of the time was pretty much in Big Spring."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "4ea36a09-f26a-4eda-845a-1cf79144a056"
+    },
+    {
+      "start_time": 922,
+      "end_time": 927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of, uh, furniture construction bring you the most joy or satisfaction? Okay,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "82cff419-4310-4feb-9019-1087b205b82f"
+    },
+    {
+      "start_time": 930,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, well, the furniture business is, uh, it was, it was an interesting, uh, career because you, you dealt with the, you deal with the community, you deal with the public. Uh, obviously when you deal with the public, you have good and bad experiences, you know, people, the vast majority of your customers are just fabulous people and easy to deal with. And, uh, a very small percentage of 'em are difficult. Uh, as far as the quality of the furniture, it, uh, it had, uh, it's changed obviously over the years. And, you know, it, uh, we went from everything being made in the United States to most of the case goods being made overseas. And, uh, mattresses and upholstery furniture, most upholstery furniture was still mostly made in the us but, uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "3a422ba7-57a3-4b61-95d6-2b3c2b4fffc6"
+    },
+    {
+      "start_time": 996,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "most of your bedroom suits, dining room suits, living rooms, tables, uh, entertainment centers, all that, uh, bookcases, all that stuff started being made overseas for the most part. And so it was a different, you know, it kind of changed the way we looked at everything. Uh, prices, you know, they were cheaper whenever you got it from overseas. But, uh, after we succeeded in closing all of our facilities here to make furniture, then, uh, We were kind of, we were kind of messed up when prices started going back up or stuff we were buying overseas. It was hard to turn that retail or that whole, uh, that uh, uh, the making of furniture. It was hard to, to, to change that. We, we, they sold off most of their equipment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "df4c82e5-7849-4b13-85bd-a1a87f5f7364"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They closed most of their, sold off a lot of their buildings. And so they, they lost their workforces. So, you know, it's, it takes years and years to build up a, a, a, that structure to, to make something. And when you, when you lose it, it's hard to come back. And it's been coming back some, but, uh, case goods are still predominantly made overseas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "6a4c105d-948b-4ae5-8594-2ddcc43098aa"
+    },
+    {
+      "start_time": 1085,
+      "end_time": 1091,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so would, uh, would that and kind of like the change in prices be the biggest challenge you face in your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "a1ccb3b6-0aa5-439e-a25e-9e4a58b31725"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the biggest challenge, I, I, you know, and it's funny, we sold the store about four months before COVID hit. And so we missed out on the COVID being in business during COVID. And I know there were a lot of challenges 'cause I was calling on stores, uh, with my wholesale furniture business. I was calling on some of those stores. And COVID created massive changes in, in every business. Uh, all of the rules that I lived by when we were in retail, furniture went away. Uh, the biggest problem with COVID was, uh, transportation. Uh, people were bringing in containers of furniture from overseas, and at one time, you could bring a container over from China for about the freight would've probably been about two to $4, 000 for the freight."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d9315ca7-1d08-485e-8380-104a524ac6c0"
+    },
+    {
+      "start_time": 1157,
+      "end_time": 1219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, uh, during the pandemic, that freight price went to 25, 000. So to bring a container of furniture back over here from overseas, the freight was, in many cases, was more than the furniture. So the car, the prices were dramatically, uh, increased The, uh, costs, the landed cost of furniture was so dramatically changed that, uh, it was, it was hard for me to relate because things that, you know, prices that I was used to in my retail experience were just, uh, Not even close. The prices went stupid. And, uh, they've come back down some, but just like we're kind of experienced with this last, uh, inflation cycle that we went through, prices go up, but they,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "2c108938-fbd1-45da-8bc2-a3bf024f4667"
+    },
+    {
+      "start_time": 1220,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the, the inflation may come down, but the prices don't seem to go down. Uh, once you get to a price, once the price gets to a certain level, it may not go up again. But it probably isn't gonna go backwards to where it was. Now, it may go back a little, but, um, I know the cost of materials, if you were building a house just during COVID, it was just crazy. You know, things were just furnace, lumber was just crazy. Everything was crazy. And, uh, then, you know, then that kind of went away and now we've got this inflation thing, and it's kind of, kind of the next big problem. Hopefully we can get that resolved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e8717702-fb54-4e29-a74d-dec991b380c4"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And have you seen that, like, uh, that rise in the cost to live, you think that's affected the community"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "6adfe21e-3c27-4bd8-b4c8-30481530a20c"
+    },
+    {
+      "start_time": 1271,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At all? Oh, for sure. Uh, I, I, it grieves me to think about, uh, the people that are on the lowest end of the socioeconomic ladder. They're, they're faced with the same prices that everybody else is faced with, and yet they don't have the, uh, means to keep up. 'cause their, their salaries haven't gone up commensurate with the prices. So if you were, if you were living paycheck to paycheck, now you're, now you're just living, you're, you're struggling to live. So it's gotta be hard on everybody, it, especially the lower socioeconomic groups."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "23771792-55f4-4d5c-9511-ff5aedbd597d"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You said your semi-retired, so what does a typical day look like for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "0984ed08-84e4-47b1-9660-2d21b905d3b4"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I, I, things have changed a little bit. I, uh, we bought a house in Horseshoe Bay, and so we're back and forth to there quite a bit. I joined the community band. I was a band director, and so I, uh, still have a fondness for music. And, um, so I joined the community band in Marvel Falls and try to go back there Thursday night for rehearsals. And, uh, and then we, and the community, I, that, that, uh, the house we bought in, in a horseshoe, they have a pickle ball, uh, that we, they have pickle ball every, uh, every couple of weeks. So I try to go back and forth for the community band and the pickleball there in, uh, marble Falls and Horseshoe. And, uh, so I'm back and forth on the road quite a bit now. Uh, I still travel. I was in, uh, El Paso a couple of weeks ago, calling on some counts with my wholesale line."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "62cd6924-15a3-4756-bcdf-a0dc1c5b1cf9"
+    },
+    {
+      "start_time": 1395,
+      "end_time": 1459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, I still go to Amarillo, Wichita Falls, uh, kind of, you know, seeing some of my dealers that I still call on and, uh, small towns in between. Um, but my, I'd say the biggest change in my lifestyle, I was still doing quite a bit of traveling. I was doing more traveling when I was on the road a lot with, with work. I'm still on the road, but now it's probably more for pleasure than for work. We, we, uh, took the grandchildren to, uh, two of the grandchildren to Florida, and then we met the other grandchildren at, uh, big Ben. And then we went to, uh, uh, Rockport for a few days with, uh, with the other kid, the other child, and her, her boys and husband. So we're doing a little more traveling, a little more, uh, pickle balling and music playing than, than before"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d917eee5-a855-4727-ad46-2174f33fe962"
+    },
+    {
+      "start_time": 1460,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Going to Marble Falls every Thursday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "f4227467-8c9b-4924-a623-740d85328210"
+    },
+    {
+      "start_time": 1464,
+      "end_time": 1470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I, I try to, uh, I don't get there every sun every week, but I try to,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "96acff8b-55fe-41a6-bc74-953dbb652907"
+    },
+    {
+      "start_time": 1471,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "2f98cf34-e1bb-4322-bbbd-f86791c95038"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I gotta roll through Marble Falls on my way to school, and that is just in Insane Drive. Yeah. I'm part of a, the Longhorn band, and I still like gripe about having to make like, the journey a week early mm-hmm. Before school starts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "4bb22daf-4ab5-462a-961f-84f3680b8fcf"
+    },
+    {
+      "start_time": 1492,
+      "end_time": 1493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a951d6d4-ed6e-469e-b68c-ca4f5df477e2"
+    },
+    {
+      "start_time": 1493,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What type of music do you like?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "f48b55bd-b26e-4880-b2ca-fad581e953d1"
+    },
+    {
+      "start_time": 1496,
+      "end_time": 1559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have to, uh, completely, uh, Unending, uh, lack of music gets crazy. I, I, I like to listen to Italian Tenors. I like Hard Rock. I not, I like, uh, guitar music. I like, uh, I like band music or orchestral music. I like some really highbrow stuff, uh, with, uh, opera and, uh, but I really have gotten into the Spanish music la lately, so I don't know. It's, I'm kind of all over the board. If you looked at my playlist, uh, in Spotify, you'd probably go weird 'cause it's, uh, it's completely all over the place. Uh, I, I was, look, I mean, if you look at, I've, you know, I've got, uh, James Brown, Michael Jackson, uh, and then, uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f1c3f3af-eaa5-4c68-8e80-5b59665ccd9f"
+    },
+    {
+      "start_time": 1561,
+      "end_time": 1594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "can't think of his name, his Spanish singer that I think is so good. And, uh, I still have some Pavarotti stuff, uh, that I think is fabulous. Um, and then I like the classical guitar. I really love classical guitar, so, I don't know, it's just, uh, really, I, I even like, uh, mariachi, I, I've got, I've got a couple mariachi albums that I, that I enjoy listening to. So, uh, it's just, I don't know, I guess it's all music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "572fbddb-e4e7-439e-a946-a7d3926c6743"
+    },
+    {
+      "start_time": 1595,
+      "end_time": 1595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "e358ecf4-d8e5-45fe-81db-b7613f5ba1aa"
+    },
+    {
+      "start_time": 1597,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Going off of that, uh, a lot of people think the 1990s as the, uh, golden decade of pop music. Would you agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "6d2e961e-0ae6-41fa-91e5-18c07ef27ab5"
+    },
+    {
+      "start_time": 1609,
+      "end_time": 1666,
+      "annotation": [
+        {
+          "text": "No, that had to be the sixties "
+        },
+        {
+          "text": ". Ooh, yeah, the sixties were the Beatles. And, uh, uh, I don't know, uh, I remember Memory's gone, but, uh, all the, all, all of the music that Three Dog Night in Chicago and all of that stuff, and they were still around probably in the nineties maybe, but, uh, in the sixties, early seventies, I, you know, I remember coming up with the Beatles and, uh, you know, all those, all those Beach Boys, uh, righteous Brothers. I don't know, there's a, you know, that was, to me, that was, you know, I, I still think of that as being the best music, of course. I guess whatever music was going on when you were in high school is probably your, you, you probably think is the best music."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "249ef8bb-3f3f-488d-9a88-f54ab495e117"
+    },
+    {
+      "start_time": 1667,
+      "end_time": 1668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, maybe. Mm-hmm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "bfdc0d02-0c62-45a2-a57e-151a90594c8a"
+    },
+    {
+      "start_time": 1670,
+      "end_time": 1702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Now let's talk a little bit more about your experiences as a resident of this community. For this first set of questions, I'll read a statement to you and I'd like you to indicate the extent to which you agree with each one. I'll give you an, uh, have you give your answer on a scale of one to four, where one is completely disagree, two is somewhat disagree, three is somewhat agree, and four is completely agree. The first phrase is, I consider myself to be an American"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "ba3eca31-a571-4576-8afc-f9ed0ffb4a59"
+    },
+    {
+      "start_time": 1704,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "560e4bd9-d049-47d4-ad19-a5db836ee7e7"
+    },
+    {
+      "start_time": 1706,
+      "end_time": 1711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the same scale. How would you rate the following statement? I consider myself to be a Texan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "f2c34174-31b9-41e4-8f4b-da590cb2ced8"
+    },
+    {
+      "start_time": 1713,
+      "end_time": 1713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "18c5107e-a81e-4c30-9bfd-e45e92425def"
+    },
+    {
+      "start_time": 1716,
+      "end_time": 1731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Which of the following statements do you agree with the most strongly? One, I am Te American first and Texan second. Two, I'm Texas first and American second, or three being Texan and American are equally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "3c7d8804-d617-4221-a85a-cbce8ceabfaf"
+    },
+    {
+      "start_time": 1732,
+      "end_time": 1733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, probably two."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "72b57cb5-5bbd-4162-89da-5092b0d27778"
+    },
+    {
+      "start_time": 1735,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is, uh, to be a true Texan, you must know how to speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "348a6d4e-7284-4f26-a96c-db917cbea002"
+    },
+    {
+      "start_time": 1743,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "63d529f3-ccf7-4150-97aa-94f1c2460cee"
+    },
+    {
+      "start_time": 1745,
+      "end_time": 1748,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about to be a true Texan? You must know how to speak Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "687bab9d-e1c5-42af-a5ce-c2b47119763c"
+    },
+    {
+      "start_time": 1751,
+      "end_time": 1752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, one,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "18ac747c-a164-4f3b-a4f7-1cbed2515caf"
+    },
+    {
+      "start_time": 1754,
+      "end_time": 1760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is, in my community, you can do everything you want and get everything you need, even if you don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "749f80dc-fd04-45d5-a1a4-b93da0db193c"
+    },
+    {
+      "start_time": 1763,
+      "end_time": 1765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, probably three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "diversity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "f821a58f-0702-4c0a-bb6d-9cf53ba0de6c"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. And finally, in my community life has been pretty stable over the last 40 years. Things haven't changed much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "3a0bbf36-d70e-4492-acc9-5d606520defb"
+    },
+    {
+      "start_time": 1778,
+      "end_time": 1778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "59248dbd-1a2c-4f62-90b8-939e5eadcbfc"
+    },
+    {
+      "start_time": 1779,
+      "end_time": 1779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "53b372f7-4312-4cd2-b69c-cae39ecb758a"
+    },
+    {
+      "start_time": 1780,
+      "end_time": 1780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "19689336-70b3-4b76-bae2-15eff6128876"
+    },
+    {
+      "start_time": 1782,
+      "end_time": 1791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I'd like to hear from you about the community itself. These are all for response. What are some of the things that have changed in this community over the past few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "42fa538c-e7ab-42f0-b69f-8c374c2e77a8"
+    },
+    {
+      "start_time": 1796,
+      "end_time": 1858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the community has, uh, I guess the biggest change is what we were, what I was talking about earlier with the change when the base closed. And then just in the last few years with the change in our education and hospital situation, uh, it's, it's made it to where you have to drive to Lubbock or Midland, or we've been, of course, by having a house in Horseshoe. We go to San Antonio for medical now quite a bit. My urologist is now in San Antonio. My dermatologist is in Horseshoe. I've got a podiatrist in Marble Falls. Uh, and then I also see a, a gastroenterologist in Lubbock. So, you know, when you get older, all you do is go to the doctor. But, um,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "f871eeac-f136-42ed-bbd7-8aa7486677dd"
+    },
+    {
+      "start_time": 1860,
+      "end_time": 1884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "before we would go to go to those specialties in Big Spring, and now we have to travel mm-hmm. Uh, and I don't, don't have kids in school, but, uh, it seems like the schools have really changed. And I, I think in some ways they may be improving. I don't know, I hear good things, but, uh, I know they did seem to go through a real struggle there for a while."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8a2e02c7-80b5-4756-964f-00149a1dfd0b"
+    },
+    {
+      "start_time": 1887,
+      "end_time": 1888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "d416694e-6960-4356-831b-b6bb7ded1549"
+    },
+    {
+      "start_time": 1888,
+      "end_time": 1890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Would you say this is a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "756cd368-0523-4492-aaf7-1af4c01f63d3"
+    },
+    {
+      "start_time": 1892,
+      "end_time": 1909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it, it's a good com. You know, every community has its ups and downs and goods and bads, and this community has more good than bad. Uh, uh, there's, there's obviously problems here, but, uh, there's problems everywhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d9ec965e-d06b-4478-b9b8-ecea810ca7ec"
+    },
+    {
+      "start_time": 1910,
+      "end_time": 1910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "8d54843d-22be-4fc3-b995-1b9e24edd8f1"
+    },
+    {
+      "start_time": 1911,
+      "end_time": 1948,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is a relatively, I think, a relatively, uh, easy community as far as cost of living, I think the cost of living here is fairly low, so it's, I think you can probably get a, get housing and some other things here a little cheaper than you could in some other places. But, uh, so it has, you know, the positives in those as far as the shopping availability, that, that's a struggle in the hospital. Like we talked about, schooling may be problems, but I guess it's kind of a mixed, mixed bag with everything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ed140050-9013-4c86-92f9-96a8bb6713bd"
+    },
+    {
+      "start_time": 1951,
+      "end_time": 1958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You said you grew up here, right? Mm-hmm. What is or was the best part about being a kid in Big Spring?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "03568f49-d642-4530-b5ca-e03c940f62bd"
+    },
+    {
+      "start_time": 1961,
+      "end_time": 2022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, being a kid in Big Spring was, uh, it was, uh, it was a lot of fun. We had, uh, I, you know, had lots of friends. Uh, we'd, we'd, uh, go to the YMCA play racket, ball, swim, uh, you know, we had, uh, lots of, uh, community activities that we went to, uh, church activities. Uh, there was, there was a good, a good mix of, uh, people here. And, uh, especially when the base was here, it was, it was a real, uh, it was really, uh, we were exposed to, uh, you know, a whole lot of things that you probably wouldn't have been exposed to in a town that didn't have, you know, an air base. That air base really kind of made it a little more interesting to live here. We had a foreign car repair shop in Big Spring, Texas,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "diversity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "84096374-89ea-4ad6-a168-5d73524ea18d"
+    },
+    {
+      "start_time": 2023,
+      "end_time": 2048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, Bob Smith Motors, I think it was Bob Smith, Bob something. Anyway, yeah, we had a foreign car repair shop here. 'cause all the, the airmen, a lot of the airmen drove foreign cars. And, uh, so we had, we had a Chinese restaurant before Chinese restaurants were even a thing. So, you know, big Spring had some things that not every community had."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "diversity",
+          "category": "Topic"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "838c6ed0-1467-4319-b78f-c28ceeb2087a"
+    },
+    {
+      "start_time": 2052,
+      "end_time": 2058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds like fun. Do you feel that the traditional way of life of this community is going away?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "1efd6101-fedd-47ac-898b-930d124cd7f1"
+    },
+    {
+      "start_time": 2059,
+      "end_time": 2102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think it's definitely changed. Uh, the service clubs seem to me to be a little bit pushed to the back. You know, they, I think, you know, we have real strong service clubs here, the Rotary and the Lions Club, and the, uh, I don't know, there were just a bunch of different things. Uh, and they, I don't know, they may still be strong. I'm just not involved anymore, but they, uh, that seems to, to not be quite as strong as it used to be. Uh, the churches are, I think some of the churches have struggled. I know there's, there's a couple of churches that are actually closed. Uh, so I think some, some things have changed for sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "833772d1-099e-42a6-ac6c-186b478890af"
+    },
+    {
+      "start_time": 2105,
+      "end_time": 2106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think is changing things"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "06227668-2217-40a8-901a-7d2a941d1441"
+    },
+    {
+      "start_time": 2109,
+      "end_time": 2133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As far as the churches? I think part of it is just, uh, the people are, you know, probably a little bit less religious than they were at one time. And, uh, so that's created a little problem with churches. Uh, I don't know. I'm not really sure what all changes things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "f531bdc6-c9a6-431b-8d82-18af3f19fcd5"
+    },
+    {
+      "start_time": 2135,
+      "end_time": 2138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. Some more fun questions. What's your favorite sports team?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "016d1cad-0a56-487d-a0b2-74f82b961cc1"
+    },
+    {
+      "start_time": 2140,
+      "end_time": 2186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'm a, a Red Raider, so I, I follow the Red Raiders pretty, pretty hard. The, uh, Houston Astros or some came and I follow, I've been following the Houston Astros when I started following them in high school. They were the Colt 40 fives. And then they, uh, you know, went to built the Astrodome and, and eventually became the Houston Astros. That was, but I've been following them for most of my life. And so I guess the Astro would be, be pretty much at the top of that. But the, uh, since I went to college, university, uh, you know, I swallow the Texas Tech sports, baseball, football, basketball."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "55c76ba8-c7ba-4659-b3a5-4169455ec608"
+    },
+    {
+      "start_time": 2191,
+      "end_time": 2196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, uh, haven't really been keeping up with tech sports. How are they doing lately?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "810e3449-edac-43a9-8750-a5687f74bace"
+    },
+    {
+      "start_time": 2198,
+      "end_time": 2263,
+      "annotation": [
+        {
+          "text": "Uh, tech does good. They, uh, they're, uh, baseball team won the, uh, national championship not too long ago, I think. And I won the World Series. And this year they, they didn't, didn't get to the World Series, or they didn't get to the playoffs. They had a, they had a struggle this year in baseball, but they consistently, they've been, they've been in the World Series primarily last years. Uh, football, football with tech is always, you know, you're always thinking this is gonna be the year. And it never is "
+        },
+        {
+          "text": ", it's kind of a, they're, they're kind of a challenge. Uh, every year I think, well, this is gonna year, the year they're really gonna be good. And then they, well, this last year was supposed to be a really good year for 'em. And then they, uh, the quarterback got hurt, the second quarterback got hurt, and the third quarterback got hurt, and, you know, they were practically outta quarterbacks. So you know that they lost a couple of games until this last year because of that injuries. And, uh, it could have been a pretty good year. Other than that, I think, uh,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "240552da-99f0-4898-9512-9b55cdfdcba9"
+    },
+    {
+      "start_time": 2264,
+      "end_time": 2271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but, uh, you know, here again, we got another year coming up and on paper they look really good. So we'll see what happens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "657d1d44-8bd5-4152-8417-d73837928154"
+    },
+    {
+      "start_time": 2273,
+      "end_time": 2275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have household chores when you were younger?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "a787c6e6-1e4a-49c3-b097-e36dce96bcc3"
+    },
+    {
+      "start_time": 2277,
+      "end_time": 2327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I, uh, I mean, we, we had chores at home, but, uh, my memory of being a child or being, being a being growing up was, uh, I went with my dad to work quite a bit and, uh, I, you know, when I first went to with him, he had me sweeping and dusting and, uh, moving furniture around in the store, and then eventually helping with deliveries by the time I got out of high school. And, and, uh, summers going to university, I, uh, I would actually head up their delivery department. So I did, I did all the deliveries and I'd find a helper usually to help me do the deliveries. So I pretty much took that on. But, uh, most, most of my chores had to do with the, the furniture store."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e978c377-5709-49dd-b572-e51cd4a00627"
+    },
+    {
+      "start_time": 2328,
+      "end_time": 2332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the, was there any that you particularly didn't like?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "24f4a45c-94ad-40db-8829-713f0023389b"
+    },
+    {
+      "start_time": 2335,
+      "end_time": 2362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, you know, uh, bill reclining sofas are a pain in the neck. Uh, pianos, if you have to move a piano every now and then, I, I hated to move pianos, uh, uh, but, uh, sleepers out of beds or can be a struggle. But, uh, for the most part it's just, you know, it just, uh, some are, some are heavier than others, but it's all about the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6a2cb4b9-590b-44ce-baff-0ff2b58f5125"
+    },
+    {
+      "start_time": 2364,
+      "end_time": 2367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what about a chore you didn't mind so much? Or maybe even liked?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "ac6605c7-6d80-4625-baa9-2355d8f88453"
+    },
+    {
+      "start_time": 2370,
+      "end_time": 2386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I, I, I did my work, work was always, you know, just part of the day. You know, I, I don't, I think I've been bored without work, you know, so we, you know, everybody worked."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3c5e2f64-d316-4d8a-8257-6bf26c29a47f"
+    },
+    {
+      "start_time": 2388,
+      "end_time": 2392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you never got caught maybe pretending to do a chore, but not really doing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "be5443fb-5372-410a-b3ff-79ba5f6b51bd"
+    },
+    {
+      "start_time": 2393,
+      "end_time": 2398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, probably not. I was, I was a pretty much of a rule follower."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9e3a7b18-6f45-4667-9595-1469da3b3f77"
+    },
+    {
+      "start_time": 2399,
+      "end_time": 2399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "f99633f3-5075-46b9-a557-7da6a5482dc9"
+    },
+    {
+      "start_time": 2401,
+      "end_time": 2404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think it's hard for boys and girls to be friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "7337a52f-a8c0-431f-8067-5148544285d3"
+    },
+    {
+      "start_time": 2408,
+      "end_time": 2419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, oh, I don't know. I, I had, I had friends that were girls that, you know, it, uh, I didn't, I didn't see a problem really."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a87cf721-4de6-4f36-909d-8ea2c55715b5"
+    },
+    {
+      "start_time": 2422,
+      "end_time": 2429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you ever told a story about another person thinking they weren't around, but then turned around and saw that they were close by?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "a7d9f0b6-49da-4e15-a22c-370b2e21b8b6"
+    },
+    {
+      "start_time": 2432,
+      "end_time": 2438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably. So. I don't think of it of the circumstances right now, but"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "139aed04-9ff2-4883-a94a-29f5eb987834"
+    },
+    {
+      "start_time": 2439,
+      "end_time": 2440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "74d3bae9-c114-46ae-aea6-6d49ebaf71bd"
+    },
+    {
+      "start_time": 2440,
+      "end_time": 2445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably, probably have not real bright sometimes, so that happens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0656dc3b-605d-4578-b42c-a7ee76668eff"
+    },
+    {
+      "start_time": 2447,
+      "end_time": 2455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I understand. Uh, is there anything else you'd like me to know about the community or your work with furniture?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "b17d6f8b-6ec7-419e-8c26-4f22b5d6a265"
+    },
+    {
+      "start_time": 2457,
+      "end_time": 2461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_0"
+        }
+      ],
+      "uuid": "d4ef37e6-5df3-4acc-8ed4-aa65979e8d6b"
+    },
+    {
+      "start_time": 2461,
+      "end_time": 2512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't guess so. It, this, uh, I, I have good feelings about this town. You know, this has been my home nearly all my life. Uh, it's comfortable. It's, I feel safe here. I don't, uh, I don't have any horror stories of, you know, ill treatment or bad problems, you know, being in this community, uh, I'd say the community was very good to me as far as my career. And, uh, the community was, uh, very supportive in most ways with my family, church, uh, business, uh, friendships, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "41a7198c-20bb-4f3d-8744-e69fdee8bfb9"
+    },
+    {
+      "start_time": 2517,
+      "end_time": 2569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's the extent of the questions I have. Thank you for so much for taking the time to talk to me. Would it be okay if I asked just one more thing before we concluded the interview? Sure. Okay. One of our, uh, overarching research questions through the Home to Texas program is about linguistic changes in Texas. As a part of this project, a linguistics researcher is asking that interview participants read a brief passage, it should only take a couple minutes. It's a short made up story about life in Texas that was created in the 1980s. And then, and since then, linguistics researchers have recorded a few hundred Texans reading it, and they use these recordings to kind and to uh, try to track how speech in Texas varies over time. Would you be willing to read, uh, this brief passage out loud?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "952e4b66-921f-4a37-9706-c24dc5901f6a"
+    },
+    {
+      "start_time": 2570,
+      "end_time": 2571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "85298a10-5e58-4a3b-a32e-aa207e4cb124"
+    },
+    {
+      "start_time": 2572,
+      "end_time": 2574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, whenever you're ready."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "d8cee1a2-d8a6-48de-b1e4-9e6467153a01"
+    },
+    {
+      "start_time": 2575,
+      "end_time": 2641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've lived in Texas all my life. I was born in Titus County and when I was five we moved to a farm near White House, which is southeast of Tyler. I liked growing up in the country when my chores were done, I'd ride my horse, climb trees or hike down to the creek or fish to fish or swim. One time we tied a rope to a limb on a cypress tree and we'd swing out wide over the swimming hole and drop into the water. I'd pretend to be taron swinging on a vine. In the spring, I'd fly kites On summer nights we'd catch fireflies, but we call them lightning bugs. Once in a while we'd have fights. We'd corn cobs or pine cones. In the winter, we'd build a fire in the fireplace and pop popcorn and roast peanuts and pecans. I guess I was a live wire when I was 19. I went to work in Dallas at a Firestone Tire store. I didn't like city life and for a long time, I'd go home every chance I got. Mama would always cook my favorite foods. Fried okra hopping, John, that's rice and black-eyed peas and pecan pie. We had lots of good times, but going home is not the same. Now. After daddy died, mama sold the farm and moved to Tyler."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "07aa5a70-b679-4d72-8f3f-552cd0502d80"
+    },
+    {
+      "start_time": 2642,
+      "end_time": 2676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd rather be living on a farm right now instead of there, here in the city. But my wife and kids don't understand me. When I gripe about my city life and talk about moving to the country, my oldest child says, daddy, that's crazy. I just die. If I had to live on a farm. I almost cried the first time she said that. I know Texas is changing, but I try to make sure we don't lose touch with our roots. Uh, we may live in a city. I want my kids to have a good feeling for the land, have a sense of place, and take a pride in being Texans. If they lose their, our ties to the land, the price of progress is too high."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "6671b222-4e73-477f-87a9-cadc4a27edf5"
+    },
+    {
+      "start_time": 2678,
+      "end_time": 2694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for contributing your voice to the collection, and again, thank you so much for talking to me. Mm-hmm. Uh, I know this is really short notice and I appreciate your time and generosity. If you don't have any other questions or comments, would you feel comfortable if I ended the recording now? Sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker_1"
+        }
+      ],
+      "uuid": "997563c8-d546-45fd-b59f-d4c884a0da0b"
+    }
+  ],
   "set": "Default",
   "event_id": "c2a1b892-4384-4b2f-b38d-4509e0a15882",
   "source_id": "ef857415-3bd4-4aa7-b5d5-f680116b5766"
