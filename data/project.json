@@ -111,10 +111,6 @@
           "tag": "iv"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "speaker_0"
-        },
-        {
           "category": "Speaker",
           "tag": "speaker_1"
         },
@@ -125,7 +121,7 @@
       ]
     },
     "created_at": "2025-10-14T21:31:45.631Z",
-    "updated_at": "2026-03-04T20:10:49.707Z",
+    "updated_at": "2026-03-04T20:10:56.178Z",
     "generate_pages_site": true
   },
   "annotations": {},
