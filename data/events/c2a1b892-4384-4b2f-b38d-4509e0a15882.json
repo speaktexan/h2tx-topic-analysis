@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "ef857415-3bd4-4aa7-b5d5-f680116b5766": {
+      "label": "language_big_spring_js_07222024.mp3",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/language-big-spring-js-07222024/language_big%20spring_js_07222024.MP3",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "language big spring js 07222024",
+  "av_file_order": [
+    "ef857415-3bd4-4aa7-b5d5-f680116b5766"
+  ],
+  "created_at": "2026-03-04T20:08:31.297Z",
+  "created_by": "speaktexan",
+  "updated_at": "2026-03-04T20:08:31.297Z",
+  "updated_by": "speaktexan"
+}
