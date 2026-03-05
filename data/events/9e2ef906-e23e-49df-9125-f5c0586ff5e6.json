@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "04e86ee7-9868-470d-8e40-d9d6ee92857b": {
+      "label": "language arlington ck 07212024-0",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/language_arlington_ck_0_07212024/language_arlington_ck_0_07212024.MP3",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "language arlington ck 07212024-0",
+  "av_file_order": [
+    "04e86ee7-9868-470d-8e40-d9d6ee92857b"
+  ],
+  "created_at": "2026-03-05T20:35:27.284Z",
+  "created_by": "speaktexan",
+  "updated_at": "2026-03-05T20:35:27.284Z",
+  "updated_by": "speaktexan"
+}
