@@ -1,5 +1,3799 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bc043eba-30a3-4f7f-a227-0c42ac1971ee"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There we go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c8925988-f432-46a0-95b9-e4d755f8044f"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just start."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cd1f9f6b-2f6e-469c-bc18-18d106bb54ff"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Nicholas Reyna. Today is June, it's 19th, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c046dfa3-cf18-431f-b697-9a363b55c4be"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "075d0646-ce94-4fcb-b5dc-a6f6e57796dc"
+    },
+    {
+      "start_time": 15,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "June 19th, 2024. And I am here in Lukin, Texas for an interview with one of our community members. Before we begin, I'd like to get verbal consent for the form that we went over. Could you please say, I consent to being interviewed and audio recorded for this study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0621da56-a79a-4a9d-98a8-01f4c1c67558"
+    },
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7f6fc520-e159-48f7-a75a-fde3e770a250"
+    },
+    {
+      "start_time": 34,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To get started, can you tell me about how you came to live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "db13a269-d92d-4f6c-8dcd-279d2e1921c7"
+    },
+    {
+      "start_time": 38,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Born here, raised here. Uh, finished school here, and went to college at SFA. So I've, this has been my area. This is where I've been."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e78f2060-5ec7-41b0-a01a-c449f513849c"
+    },
+    {
+      "start_time": 50,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And could you tell me a bit more about this community? How would you describe it to someone who doesn't live here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a915ddfe-7f85-4b16-bcf2-657ec4fcfff3"
+    },
+    {
+      "start_time": 57,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today? Uh, I think it's a good place to live. Uh, I think like every other place that's got its problems, and they're probably more pronounced today than they were back when I was a kid, but, uh, I think it's close enough to the big city that you can go and enjoy the things of the big city, but you still be able to stay in a, have a small town flavor to where you live."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "2cdb2228-2b0a-4c0a-810d-824bd07ef704"
+    },
+    {
+      "start_time": 89,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how do you think this community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a15bc4d7-ac0b-45de-a823-0a6cea8d8d02"
+    },
+    {
+      "start_time": 93,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Throughout what? Throughout"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3d13abd6-6942-4f57-a363-df3f5429026b"
+    },
+    {
+      "start_time": 95,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "291664f7-990f-425b-b9b0-08f79db88db6"
+    },
+    {
+      "start_time": 99,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's changed dramatically. When I was a kid, nobody locked their doors. This may be true for, I think, all over the United or many places in the United States, not necessarily the South and here in Lufkin, but they're just, n neighbors took care of neighbors. If someone told you, um, something you could rely on it. My grandpa caps used to say, if, uh, that fellow tells you that a rooster dipped snuff, you can look under his wing and find his snuff box, because it would be the truth. And, uh, I think, uh, I, I, I think the biggest thing that's changed is the family unit in many cases. I think, um, that's the, that's the sad part. I think that's, that's really, um, to have a mother and father. I never realized that where I'm headed with this is I had a wonderful, wonderful parents. They were disciplinarians, and I had no problem with that. Didn't hurt me a bit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "43103b47-3692-46bd-980c-3988a97694da"
+    },
+    {
+      "start_time": 163,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, but as my son, my youngest was in high school, he had some friends who didn't, who didn't have a, a two parent household. And, um, until I met those kiddos and kind of got involved in that and involved in the, uh, athletics at Lufkin High School and the, the head coach here, and I got to be good friends. And some of those kids, you don't realize, I didn't realize, um, that I wish there was some way to fix that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "c24cb570-55b2-4b0f-81a2-0e292f86a4f8"
+    },
+    {
+      "start_time": 200,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what would you say are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "611f640f-46b3-48aa-934c-43b90e92f7e1"
+    },
+    {
+      "start_time": 204,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Strength of the community. It's a can-do community. Um, you call on people to do something. Uh, you ask for something. I think this can best be described as there was a time that, uh, uh, the last bank I worked for the headquarters was in Nacodoches. The bank is over 120 years old. It's been here forever. Been over there forever. But I worked and managed a branch here in Lufkin. And so I worked closer to those folks. And one of the guys was telling me one day, he said, you know, the difference between Lufkin and Nacodoches? And I said, well, I know a lot of differences. And he said, he said, you know, um, we built an expo center over here, and then Lufkin steps up and builds one. We could set ours inside of. And so anything this community needs, like a community center, a civic center, an ex post, whatever, they make it happen. And I ran into this and found this to be true. Um, I was the, uh, president and the secretary for the high school booster club, athletic booster club. And, um,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8615a8ad-33a6-4056-af5e-c0aa55784eed"
+    },
+    {
+      "start_time": 270,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if we had a project, all we had to do was go talk to some of the, the businesses in town, and we'd get it done. It is just a can do place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "67bbcce9-3233-4547-8682-7085bf704ff7"
+    },
+    {
+      "start_time": 283,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And on the other hand, what would you say are some of the weaknesses?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d71cef4c-7e33-4670-b45c-8ec2be9666da"
+    },
+    {
+      "start_time": 287,
+      "end_time": 324,
+      "annotation": [
+        {
+          "text": "Uh, you know, I've never thought of it that way because I kind of lived in a bubble "
+        },
+        {
+          "text": ", and I, I don't see probably, I think there's probably more crime now than, than there was in the past. Mm-hmm. And I think that's true everywhere, but especially true here. And, uh, I'll go off on a tangent here a little bit. You may want to draw me back in. But in 1972, I was dating a, uh, a pretty girl, and she was a freshman at SFA, and I was, had my first banking job. And"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "d9c6007c-c87e-454a-ae7c-c2ec2143fb83"
+    },
+    {
+      "start_time": 327,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you could put on silent"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "786ac253-8b2f-4410-a2fc-342ea258361e"
+    },
+    {
+      "start_time": 329,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For a Yeah, I will. I I should have done that to begin with. I, that's a spam thing. Anyway, anyway, she can erase that part."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bf46d787-04b3-48e0-8fe3-a3d3513b0f56"
+    },
+    {
+      "start_time": 338,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ","
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "22c32326-cdbf-4702-b837-5a2414db47f4"
+    },
+    {
+      "start_time": 338,
+      "end_time": 376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long story short, um, didn't, never occurred to me ever in 1972 that this would happen to us. But I, we bet on a date, guy pulled a gun on us, put me in the trunk, tied me up, did some other horrible things, and we managed to get out of that. And so I never would've dreamed that would've happened back then, more likely now. So they're bad people, and there's good people, and, uh, always have been, always will be. That's just the way it's,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "979c5307-ac30-4bdf-b773-0f7f9d311bff"
+    },
+    {
+      "start_time": 378,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about the roles and relationships you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "016d6bc1-cb00-4e6c-9552-de878a270d9f"
+    },
+    {
+      "start_time": 381,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, the, what"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6b5d360b-4be9-4540-8232-f5f42cb49123"
+    },
+    {
+      "start_time": 382,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The roles and relationships you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0fc9ef7c-d589-47c6-a186-b649af0466fb"
+    },
+    {
+      "start_time": 385,
+      "end_time": 440,
+      "annotation": [
+        {
+          "text": "The, the roles mm-hmm. That I have in the community. Mm-hmm. Well, being retired, I don't do what I used to do, but I "
+        },
+        {
+          "text": ", I, uh, at one time, coach Lilly baseball. I was in the, uh, lions Club. I was in the Kaas Club. It's expected of you when you work at a bank to be involved. I was, I was on committees with the Chamber of Commerce. And, uh, but as when I retired, I, uh, retired "
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": ". I thought, I've coached enough league baseball. I've done, I've done what I, you know, need to do. So I still, you know, somewhat active in church and those kind of things. But, but as far as, uh, being a treasurer or board person, uh, they ask me here, the, a while back, if I wanted to be on our local water board, I used to be the president. I went, I thank you. No, that job doesn't pay well. So I Good."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "8e741a0a-f7ef-4ec0-92c1-b726af24a4bf"
+    },
+    {
+      "start_time": 442,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I know you've already mentioned it a few times, but if you wanna elaborate or skip this question, um, what do you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ae47381e-c4b4-479b-8006-4592df3c8197"
+    },
+    {
+      "start_time": 450,
+      "end_time": 497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did I do for work? Mm-hmm. Well, throughout my career, I did a little bit of everything, but at the time of my retirement, my, my main focus was managing the second, or other than the main office. Mine was the biggest branch. I had 13, 14 employees, and I was responsible for the profitability of the branch. But in addition to that, and I was given, uh, goals and, uh, as far as production on loans, I was given goals is to deposit growth. And, uh, you had to meet and clear those hurdles. Uh, and, uh, the part I, you may get to this later, but the part I really, I didn't care much about doing budgets, and I didn't care budget for personnel issues. What I liked was talking to people. What I liked was, uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7853091c-a0a2-4c61-9971-25734cabf6cb"
+    },
+    {
+      "start_time": 498,
+      "end_time": 524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh, seeing somebody get a house that they had worked hard for and saved. And I felt like I was part of, uh, being able to see them move into a home. I also did, but I also, one of my, but primarily I was called a commercial lender, but it, I still had customers that I had helped with car loans, and they still expected to see me do that, but I, those, that's the part of the job I really liked was, was the people. I miss that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "2b1a378c-adea-4679-9b4c-6898ac806b15"
+    },
+    {
+      "start_time": 526,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how do you think your connections in this community influenced your work as a banker?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "600c932f-4f36-46c3-ba5c-7a11c336b51c"
+    },
+    {
+      "start_time": 533,
+      "end_time": 534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gimme that one again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d77965b9-c34a-46a3-8334-06a70a3df361"
+    },
+    {
+      "start_time": 534,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think think your connections in this community influenced your work as a banker?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "b8f7b50e-3ad2-4441-9265-c63db5d90f15"
+    },
+    {
+      "start_time": 539,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My connection in the community? Mm-hmm. That's a good question, because you typically are, from my point of view, when you think of somebody that works at a bank, you typically think of somebody that likes to play golf. And somebody that may live in the, uh, crown colony that, uh, that likes to go to, uh, uh, cocktail evenings. And I'm a country guy. I do not like living you. You can see where I'm at. I'm, my house is here in the woods. I never played golf. I hate it. I don't hate it. I don't, I tried it once. I didn't like it. It seemed like it was a waste of time to me. I didn't, um, But so I knew that, I knew that I didn't, if you wanna call it hobnob, I didn't hobnob with a lot of doctors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "91f67c1a-440d-4a6c-be3d-8391becf6e45"
+    },
+    {
+      "start_time": 595,
+      "end_time": 657,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I had some attorney buddy, my best friend's, an attorney. I had some people that I knew. I, uh, the, the local fellow that owned all of McDonald's was a good friend of mine recently passed away. And, uh, but the, recently he was my friend is I used to fool with classic cars, and he did too. And one of my friends, uh, from school was, uh, restored cars. And so from that, we, we became, became good friends. Anyway, uh, I felt like my strength was that if it was a doctor, I could talk. And I had some doctor clients don't misunderstand, but my boss asked me one time or told me he, he had, we were talking about what he wanted, and he said, I don't you, I would like to see more of a mix and see in your portfolio and in your deposit base for that branch. I would like to see more medical people. And I had a handful. And I said, if that's what you say, that's what I'll do. I said, but you know what? I'd rather have,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "edfe8d9c-8749-46c8-a576-ef633d30e4cc"
+    },
+    {
+      "start_time": 658,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this is what I told him. I said, I'd rather have 10 good old boys that work at the foundry than one doctor. He said, why? And my answer was, because those 10 guys will be loyal to you. They don't beat you up for rates. They don't expect you to wait on 'em and drop what you're doing and go cater to them. And I guess probably I can relate to them better than I do doctors, though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a5ea5c4a-c5d8-44d7-ba59-ca9044da0f4a"
+    },
+    {
+      "start_time": 691,
+      "end_time": 697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I'd like to talk more about your work as a banker. Could you tell me about how you got into that role?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "79d6456c-63ba-4d90-ba09-da348ce30cf9"
+    },
+    {
+      "start_time": 698,
+      "end_time": 761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, yeah, it's a pretty good story. When I was, I went to SFA and, uh, Can I digress a minute here? And I'll tell you something that, that, and this, I don't wanna get into politics, but my father came back from World War II with tuberculosis. He did a lot of stents in the VA hospital. He did nine months once, six months, once, three months, once. And because of that, we didn't have a terrible lot of money. Now, we had, we never went without. But, uh, when it came time to look at college, I would've liked to have gone to the University of Texas. And to be honest, I don't know if I was smart enough to get in, but there was no money for us. There was nothing. And at that point in time, there were no, I mean, this is 1965. There was, you know, I didn't, if, if there was any grants or anything, I knew nothing of it. But here's the plan. My dad worked 45 years at the paper mill here. They had a summer work program."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "local governance",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "618198a0-2dd8-4466-a88d-48b28277a02a"
+    },
+    {
+      "start_time": 762,
+      "end_time": 826,
+      "annotation": [
+        {
+          "text": "And he said, uh, and I could make enough money working at the paper mill in the summers to pay my tuition and buy my books at SFA. Both semesters I had to live at home, and I worked part-time pumping gas. And the only reason I mentioned this is because if you wanna do something, you can do it. You just gotta figure out a way to make it happen sometimes. But so what happened then? And the Vietnam War was going on, and, uh, I was motivated "
+        },
+        {
+          "text": " to try to stay in school because you could get a deferment because the draft was going on. And then when they finally tried to draft me, uh, I, I didn't pass the physical, but, uh, it's another story for another time. But, uh, so I came, I, I got home. And, uh, here's the answer to your question. I had a buddy, a good buddy in high school who was working as a manager at a finance company. And, uh, he, when I got, came back from not passing the physical,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "42db8402-107c-4be8-a9c6-1d3360dc0c1b"
+    },
+    {
+      "start_time": 826,
+      "end_time": 891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he and I were out messing around. He said, Hey, what are you gonna do? And I said, I'm not sure. I'm not sure at this point. He said, Hey, I know where there's an opening at a finance company. And I said, it is Plains Finance. I don't know if it's even still here, but, or around, but, uh, long story short, um, I applied for the, the position, and I went to work for them as a, as a collector of past dues. And, and, no, no, he worked for Plains Finance. Let me straighten this up. And I went to work for Home Credit Corporation, HCC Credit, and they made loans up to $1, 500, and they made the smaller loans to folks and charged an exorbitant constraint and that sort of thing. But, uh, um, but they had a really good trainee program. They had a good trainee program relative to collecting past dues. And you didn't get promotions if you didn't pass these, uh, uh, programs that they put forth, and if you wanted to be promoted. And, and, uh, so anyway, it was a good, it, it, it, it was a good fortunate thing for me. One day though, I was, went to lunch"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "2cce57ab-8581-451d-9506-97a7ff374efd"
+    },
+    {
+      "start_time": 892,
+      "end_time": 947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and I had a buddy that I commuted with, uh, one semester over to s FFA that I went to school with. Good friend of mine ran into him at lunch. We were eating at Dairy Queen, and he went, he was working at the old Lukin National Bank that's not here now. And he said, uh, he said, Hey, uh, I'm being promoted and my job's gonna be open if you ever think about working for a bank. And I went, well, yeah, it crossed my mind one time, but I never, and, uh, so I came into Lu National Bank as a trainee, and I worked as a teller. I worked in new accounts, I worked all over the bank, which was really great. Um, and, and it gave me a good, uh, background. And from there, uh, I, I, I went to another bank and got into lending, got all along platform, and went from there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "0890d651-f0b1-435e-af3b-d5a12c79bea2"
+    },
+    {
+      "start_time": 949,
+      "end_time": 953,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how long did you work, or how long were you working?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "838a46b7-a00a-4eb8-b3a3-0222d4dd52f8"
+    },
+    {
+      "start_time": 954,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, I worked 40, 45 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a009d2d7-bf9e-4115-be92-0d9daa7f1a99"
+    },
+    {
+      "start_time": 959,
+      "end_time": 961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what did a typical work day look like for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "b1511891-f0d6-4945-974d-d8f92068b6fc"
+    },
+    {
+      "start_time": 964,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "text": "Again, I may ramble on you a little bit, "
+        },
+        {
+          "text": ", but here's one of the things that appealed to me about going to work for a bank back in 19 69, 70, no, 70, excuse me, 71 those days, no, banks were open on Saturday. Many banks closed at two in the afternoon. Some, some at three. Now, you didn't get to go home at two or three o'clock, but the doors were closed. And what you did was you balance your drawer and you got everything ready for the next day, and you went home. And I thought, yeah, this is my kind of deal, "
+        },
+        {
+          "text": ". And, uh, uh, but then banks started opening on Saturday, the hours changed. And, uh, uh, at the, uh, at the end of the, at the end of the, uh, my, my career, uh, we were open. Um, we were open five and a half days a week."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9a8cd8ea-40bd-4f31-96ea-01330b91447b"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "text": "I didn't, I didn't have to work on Saturday. I, now, what I had did do was I had, uh, I had two other loan officers that worked under me, and we rotated, and we had to be on call in case the tellers had a problem. But, uh, but usually, um, I would be home by 5, 5 30. They been there sometimes. And, and I asked my boss when I interviewed for the job, um, I, at the end of the interview, never will forget. I said, I've got one more thing. He said, what's that? I said, I never asked to get off and don't play golf. I don't hunt. I fish a little bit, but I'm not asked to be off of that. But what I do like is luck in high school football. And, um, what I would like is sometimes when there's not a town game, I'd like to leave early. He said, I don't care if you leave all day, as long as you got your job done. I said, okay. So that, that sold me all that "
+        },
+        {
+          "text": ". Um, but yeah, that, if that, that answered your question, that's what we did. That's what,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "4fd81db8-8061-4d97-99a2-592741ddce62"
+    },
+    {
+      "start_time": 1089,
+      "end_time": 1092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does it mean to be a banker in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9c1f0a3d-1c12-4671-8086-6c1a844874fd"
+    },
+    {
+      "start_time": 1094,
+      "end_time": 1156,
+      "annotation": [
+        {
+          "text": "Um, Even today, I ran into somebody here not long ago at a restaurant, and sadly I didn't recognize it, but that's not unusual because with bankers, here's the deal. The people you get to know really well are the ones who struggle "
+        },
+        {
+          "text": " because you're always talking to 'em, the ones you see every year or every other year, and all they come in to do is make a loan. I know, I know "
+        },
+        {
+          "text": ", but I didn't have a lot of interaction with those folks. And this guy, this guy and his wife came and he said, my cap, where have you been? And he shook my hand and he said, how are you? He said, and he looked at his wife, said, this guy made me my first loan when I was 18 years old, and I have followed him to everybody. That's cool. I that, uh, to think that you had an impact on somebody, much like coaching little league ball. I still have some, they're not kids anymore."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "b035f232-f724-4573-8db7-0c777f23efa8"
+    },
+    {
+      "start_time": 1157,
+      "end_time": 1183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But when it's my birthday, I've still got some of those guys that are now almost 50 years old that will send me a birthday. We say, coach, I hope you have a great birthday. So it's the relationships that last, uh, through the years and the things that you felt like you had a part of the, uh, of their success that you, not you personally, the bank. Uh, I, but I was representative of the bank. And so if you help folks, that's the part, that's the part."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e89a5938-f334-4df9-98e8-0a0959eade9c"
+    },
+    {
+      "start_time": 1184,
+      "end_time": 1188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of your job bring you the most joy or satisfaction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7a839e89-77d7-4b46-8b16-4e85d9f8b2c2"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, I've already touched on that. Uh, um, I'll tell you a quick story. I worked, uh, at a little bank at one point, and this lady came in who had rheumatoid arthritis. And she had one son that was special, but he could drive. She had another one that was wheelchair bound. And this lady, uh, I don't know how she could function, but she came in and she said, I, I need to borrow $500 to build a wheelchair ramp at my mobile home for my son in the wheelchair. So I said, you bet. I pulled everything up and put it together. I don't think she had any credit. Consequently, it was with outside my lending authority, if you don't have any credit or if you got that credit. But I went to the president of the bank. It was a great guy. He's gone now. He was deceased named Jim Hunt. And I said, here's this lady. I said, he said, you tell her"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "dfd563c0-d746-418e-abb4-6bccced8df5d"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that the bank will pay for it. We'll just do that. And he said, no, wait a minute. He said, you make, make her a loan. Charge her a reasonable rate, like 10%, which is nothing on a, you don't make anything on $500 at 10%. Mm-hmm. And if she pays it, she'll bill some credit and she may need something else down the line, and then you'll be in a situation, or she'd be in a situation ever. As it turned out, um, she paid like a, just like nobody's business. And I did back her more loans, and she did get credit established, and she had some credit. And in, in the course of this, um, this lady developed some cancer on her nose, had to have her nose amputated. I mean, it was just one thing after another. Uh, but she was always up. And she came in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "de391459-8515-4a71-8bd4-48f418726169"
+    },
+    {
+      "start_time": 1304,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "text": "and she said, uh, the paper mill she lived in, behind the paper mill on some property, her property in a mobile home. She said, they're buying up property around us, and they've made me an offer, pretty good offer, but I wanna know if I can buy a house. And I found one, I won. I said, uh, absolutely. And so we, uh, just, she was so happy to get those kids and I, and as luck as as, and things would have it, the house was just down the road from where I live, "
+        },
+        {
+          "text": ". Uh, but that lady passed away shortly after and did not get to enjoy it. That that was the saddest part. But to see somebody who was fighting to make the banking is one of the few professions that you, you can have an impact, I think, on things like that and helping people. And, uh, you know, while I'm talking about this, you know, one of the things that"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "64175b90-6160-45a3-a0a2-c00b12d6e54f"
+    },
+    {
+      "start_time": 1370,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "banks, banks are regulated in on many fronts. Everybody thinks in terms of sound, uh, safety and soundness. And, and that's where the, they come in and check your loans. But there's a lot of other audits by the government, and there's other regulations. One of 'em is called the Community Reinvestment Act. And the, and, uh, uh, the Community Reinvestment Act says Bank, you must do some things in your community to benefit using your banking knowledge, using your skills to help people who are low income. So we look for things. And if you do not, if you don't score well, you can even be monetarily penalized when you're audited on this. And if you want to build branches, you're not gonna be able to build branches, you're not gonna be able to make acquisitions, nothing. So it's pretty important. They're very serious about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9a7608bd-fb92-47fe-85b2-28e8c9be1b23"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of my customers was warden at the prison down in DA Hall, and, uh, he and I were talking about things one day, and he's actually, I'll give him the credit. He said, Hey, we, our prison is the last stop for these guys. They're gonna be getting out, uh, within two years, most of them or a year, and they required to complete a life skills class. He said, would you come talk to those classes about what's changed in banking? I said, you bet. That's perfect. I mean, they're low to moderate income. And, uh, I, I enjoyed going, I mean, the first time I went to, to go through all the gates and through the bars, you're out in the yard with them, and, and then you get in there. But it, I was, and you look at the class, and they would be sometimes 15, sometimes 20"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a7c862fa-c5f5-46fa-956a-83db49dc98c8"
+    },
+    {
+      "start_time": 1491,
+      "end_time": 1552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "people in the class. You look at one guy and he looks like the kid next door looking at another guy, and he looks like your grandfather. You know, you can't ask 'em why they're there. If they volunteer, that's fine. But there's always, there was always, almost without exception, there were two duds, maybe three that would just put their heads down, go to sleep, didn't care, don't want to hear. And, and I would talk to 'em about how to open new accounts, how to get your credit, credit reestablished. I would, I would talk to 'em, if you're going to thinking about doing a business, here's what you need to do. You have questions. And there would be four or five that take notes and have questions. But I felt like that, um, if, if some of that helped, some of those guys, 'cause they got a law, they got a steep hill to climb. And, and so that's the kind of things people don't know that, that banks do that. Uh, and,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "aac503f6-065a-450d-a865-91a045769fbc"
+    },
+    {
+      "start_time": 1553,
+      "end_time": 1607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and we also, uh, I went and, uh, I used to have a talk and I would go about every year and talk to, uh, kids in high school. And it was about banking primarily, but I also worked in, uh, one of my deals is, kid, please, kids don't drink and drive. I mean, here's what it can cost you. Stuff like that. Anyway, that, that, that was a long answer, but it, it, it, uh, uh, banking afforded the opportunity for me to, to feel like I was doing something good for somebody. Much like Little League Baseball. I loved being with those kids. And, and, and it just, I had one kid in particular who I started with him when he was six. I moved up to the next level. I got him again, and he had a temper. And, and"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9b5e5fa8-f65e-4f07-b26d-7ea7e754dde0"
+    },
+    {
+      "start_time": 1609,
+      "end_time": 1640,
+      "annotation": [
+        {
+          "text": "to this day, or when he got on up, he would ride a bicycle about five miles just to come see me, "
+        },
+        {
+          "text": ". Now he'd come see me to see if I'd give him a beer, and I'd go, no, I'm not gonna give you a beer. But, uh, uh, but anyway, that's, uh, and you make good relationships with people there too. I had people come bank with me because you just, for me too, somebody does get something good for my kid. You, you got me. I'm paying attention. I'm, you know, so anyway,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "af1bd591-3544-41a9-846b-9dc81422c645"
+    },
+    {
+      "start_time": 1640,
+      "end_time": 1640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8f8c4066-a698-436e-b4ec-d4366fb04e03"
+    },
+    {
+      "start_time": 1641,
+      "end_time": 1705,
+      "annotation": [
+        {
+          "text": "And what are the biggest challenges you faced in your work? The biggest challenges? Mm-hmm. Today are at any point, uh, if we're talking today, having attained my age, you've learned, I've learned a lot of things the hard way. I have seen a lot of things. I can see how a mole hill can turn into a mountain. I can see how you can get blindsided. So I, if there was, if there was an Olympics for worrying, I, I would be, uh, first place most of the time, particularly about my children, I don't want them making the same. And I've got one that just doesn't listen, never will "
+        },
+        {
+          "text": ". But, um,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "634feb44-5a09-4283-a852-a0ed3e418022"
+    },
+    {
+      "start_time": 1707,
+      "end_time": 1768,
+      "annotation": [
+        {
+          "text": "one of the hardest things That I've learned is I, I can't believe that I'm this old. That's the first thing. My brain, my, I can't get it in my head. My brain still thinks I'm 30 years old, and it tells my body, oh, you can go cut that tree down and cut it up. And about halfway through my body goes, you lied, you lied. And so, so you, my thinking hasn't changed until I look in the mirror and I go, oh, man, this is an old guy, "
+        },
+        {
+          "text": ". And so the, the hardest thing for me to do is remember I can't do the things I once did. I, you know, fool around and get hurt. And, uh, um, my challenge when I was working was, um, I, I'm, I'm kind of competitive and, uh,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "fdcab28c-842e-4601-b9ed-55b764f48a78"
+    },
+    {
+      "start_time": 1770,
+      "end_time": 1830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if I wasn't meeting goals, and if the branch wasn't meeting goals, I just agonized over it. And That probably took years off of my life because I would, I would worry about it, because everybody wants to be a winner. You want to get, you get patted on the back. I had a, when I was at the bank that I told you about, where the lady we around in a loan meeting one morning, and one of the things they track for the loan officers is your percentage of past dues, percentage of loan. If you've got a portfolio of, of, I think mine when I retired, was approaching 40 million that I'd loaned out. That was out in books. Hmm. If your past dues that are nine that are 30 days, no, 60 to 90 days past or more"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5d7ef2c7-4ec2-4a5b-b462-c9c593075aba"
+    },
+    {
+      "start_time": 1831,
+      "end_time": 1886,
+      "annotation": [
+        {
+          "text": "beyond, if the percentage of that total portfolio you wanted it, ideally you wanted it under 2%. Uh, this bank that I worked for, they were okay with 3. 5%. And, uh, of all the loan officers in that bank, mine were always, I was, my, my past dues were always, I was a little, so in this loan meeting, the president of the bank, Jim Hogan, he said, well, Mr. We got that through before we're done. He said, well, Mr. Caps, you, uh, you've had some attaboys today, you got anything you want to say? I said, I have been working at that time. I said, I've been working in the banks for 20 years, over 20 years, and one thing I've learned is that you can take a room full of attaboys and all it takes is one Oh, no. And they evaporate "
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "896a3cd6-04e2-4f81-bbb4-7be431de03ed"
+    },
+    {
+      "start_time": 1887,
+      "end_time": 1923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He said, you're exactly right. And, uh, and, and that probably was one of the toughest things, because if you don't, if you don't, particularly with mortgage lending, it got so complicated. If you don't do the proper disclosures at the proper period of time and, and so forth, the bank is, you can cost the bank money monetarily. And you, you can't, there are certain things you can't, you gotta be careful that you don't mislead 'em. Uh, you know, I mean, unintentionally you would never do it, potentially. But anyway, it, it's, uh, it can be up from that standpoint, high pressure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "0a6fc506-1ce6-41cf-b527-e2b2bebee22f"
+    },
+    {
+      "start_time": 1923,
+      "end_time": 1951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So. Alright. So now, uh, I wanna talk to you more about your experience as a resident in this community. For this first set of questions, I'll read a statement to you, and I'd like you to indicate the extent of your agreement with each one. If you give your answer on a scale of one to four, where one is completely disagree, two is somewhat disagree, three is somewhat agree, four is completely agree. If you'd like to comment on any statement, please feel free to,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ed38f9ee-6998-41c9-b868-9b8d53bdff6e"
+    },
+    {
+      "start_time": 1952,
+      "end_time": 1952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "65533781-43bf-496e-9887-f2e854defcc8"
+    },
+    {
+      "start_time": 1953,
+      "end_time": 1957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. The first phrase is, I consider myself to be an American."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "786b5ac9-d22b-4468-8b4c-4b0c6d7bb1ce"
+    },
+    {
+      "start_time": 1959,
+      "end_time": 1959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "32eb067b-fdaf-426f-b456-70b905f56bbf"
+    },
+    {
+      "start_time": 1961,
+      "end_time": 1961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So a four,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5f259246-badb-47e6-99d2-6118f5d42554"
+    },
+    {
+      "start_time": 1962,
+      "end_time": 1962,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ad9cc41c-dc33-41c5-89d5-08e1b12fcfb4"
+    },
+    {
+      "start_time": 1968,
+      "end_time": 1975,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two. Using the same scale, how would you rate the following statement? I consider myself to be a Texan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5e41aad9-215a-44aa-a67f-37cecd47f499"
+    },
+    {
+      "start_time": 1977,
+      "end_time": 1977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "529357c7-ddf0-4ad2-b936-efa6cfecff5c"
+    },
+    {
+      "start_time": 1979,
+      "end_time": 1992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the following three statements do you agree with most strongly? I'm American first and Texan second. I'm Texan first and American second, or being Texan and American are equally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e8ac05a8-5202-4ccb-b57e-51e71b8267d7"
+    },
+    {
+      "start_time": 1998,
+      "end_time": 2002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am a very proud Texan. So I think they're equally important. Huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "59acbc14-337c-4406-ab2f-873d0ae8c8c1"
+    },
+    {
+      "start_time": 2005,
+      "end_time": 2013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is to be a true Texan. You must know how to speak English. What would you rate this one using? The same scale we started with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b3f0922f-9bf0-4d51-86e7-d9db7e4c0912"
+    },
+    {
+      "start_time": 2016,
+      "end_time": 2017,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Ask me that one again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b0de9d9f-1d6b-4f48-83df-989e85e73047"
+    },
+    {
+      "start_time": 2018,
+      "end_time": 2025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To be a true Texan, you must know how to speak English. What would you rate this one using? The same scale that we started with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "86583cef-58b6-4834-8c4a-3883677c4e4a"
+    },
+    {
+      "start_time": 2026,
+      "end_time": 2036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm. I, maybe a three. I don't, you know, I don't think,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "244183aa-6922-4ca3-9b48-2339d5276c4e"
+    },
+    {
+      "start_time": 2038,
+      "end_time": 2043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. How about to be a true Texan? You must know how to speak Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "16262f30-d7d6-41a5-b5c4-8a88c3f170b6"
+    },
+    {
+      "start_time": 2045,
+      "end_time": 2047,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I don't think that's, I disagree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bcc68221-888b-485c-8ba2-a20b5a9e8727"
+    },
+    {
+      "start_time": 2048,
+      "end_time": 2049,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So one with that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "af9250a2-4182-4714-892b-bf2149cb101d"
+    },
+    {
+      "start_time": 2049,
+      "end_time": 2050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. All right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "103d9390-189e-41fe-adeb-bafa38bc35c6"
+    },
+    {
+      "start_time": 2052,
+      "end_time": 2058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is, in my community, you can do everything you want and get everything you need, even when you don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5eafa2ff-2b70-4dbe-9cd6-e2220c7fae03"
+    },
+    {
+      "start_time": 2064,
+      "end_time": 2066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Yes. Four. Four."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c3f49976-d429-41ce-ae27-5bc7c2647e54"
+    },
+    {
+      "start_time": 2067,
+      "end_time": 2074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Finally, in my community life has been pretty stable over the last 40 years. Things haven't changed much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5d648466-0fc7-4515-a59b-927e91c13454"
+    },
+    {
+      "start_time": 2076,
+      "end_time": 2080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, that's about a, two things have changed a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "057926c4-062c-48ee-9c6a-7aff4a746fa6"
+    },
+    {
+      "start_time": 2083,
+      "end_time": 2092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I'd like to hear from you about the community itself. What are some of the things that you, what are some of the things that have changed in this community during the last few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "25c7dfa0-28f7-4631-b23b-5a23bad208a2"
+    },
+    {
+      "start_time": 2095,
+      "end_time": 2129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the thing jumps to my mind to begin with is, uh, we had a paper mill. We had two foundries. We had a bunch of industry, and it's all gone for, for one reason or another. And, uh, uh, and we, we've turned into a, uh, medical hub for the surrounding areas. Nothing. That's great. And that's wonderful. But, uh, it was just really sad to see some of those businesses that had been here for a long time go away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5e22967f-1b95-4a94-8671-6abe4222824f"
+    },
+    {
+      "start_time": 2132,
+      "end_time": 2135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And overall, is this a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "536ff3a9-bec6-4fe0-83ce-4a117b362287"
+    },
+    {
+      "start_time": 2136,
+      "end_time": 2137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, uh, four, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bf157eb0-a658-40a3-ba6a-6a88ab3b01c5"
+    },
+    {
+      "start_time": 2139,
+      "end_time": 2151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. And with this one, I think you could comment on all these. Um, what was, or is the best part about being a kid or a young person in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f31e9800-64c7-4c6d-a0a6-e6bea6dae483"
+    },
+    {
+      "start_time": 2152,
+      "end_time": 2200,
+      "annotation": [
+        {
+          "text": "The best part about being a teen. Well, not being a teen, I don't know "
+        },
+        {
+          "text": ", but, um, um, I, I don't, I really don't, I don't know how to answer that. I, I think on the other side of the coin, I can answer. I wish there were more things and activities and to do. And, uh, I, I think, I think we fall short a bit there. And, uh, so, but I don't know. Uh, I, I, but, and, and I think that would eliminate a, a lot of the problems that some of the teens get into that, that, uh, that's, uh, sad to see. But anyway."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "3c372060-d80a-4b7a-9232-36e03502cdaf"
+    },
+    {
+      "start_time": 2202,
+      "end_time": 2211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel that the traditional way of life in this community is going away? If yes, why do you think that's the case? If no, what do you think keeps things the same?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5ba2cdd1-e6dd-46ce-8bfe-42feddd3df6a"
+    },
+    {
+      "start_time": 2214,
+      "end_time": 2220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I need to be, I need to define traditional. Are we talking like a household with mom, dad? Is that what we're talking, or what are we,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e53ebcda-cd20-412c-9a99-a1b80baee775"
+    },
+    {
+      "start_time": 2221,
+      "end_time": 2227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, I guess whatever you see as a traditional way of life or has been the traditional way of life here in this community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7ed5e08e-d0ef-4af9-a673-2d5ef7808db7"
+    },
+    {
+      "start_time": 2227,
+      "end_time": 2246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I think it's, I think for the most part, yes. It's still, I, I see, uh, mostly, uh, mostly the same, I think. Hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d93b3fe3-e27f-4349-ad27-2d4c8894c79e"
+    },
+    {
+      "start_time": 2248,
+      "end_time": 2250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And why do you think that's the case?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "03ea3758-c0fa-4316-9f7e-b1d6afbbf394"
+    },
+    {
+      "start_time": 2252,
+      "end_time": 2300,
+      "annotation": [
+        {
+          "text": "Well, it's just from what I, what I observe. I still, um, um, I still see, uh, I still see kids, uh, participating in sports and participating in band and all those activities that I grew up participating in. And, and, uh, I just think that, uh, uh, I don't see a lot of change from that perspective. That's my world. But you gotta know, my world is not as broad as it wants, was "
+        },
+        {
+          "text": ". So I, I I probably can't answer that very well, but,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "23c72242-bd77-4f4a-9205-20a3af2c1aa6"
+    },
+    {
+      "start_time": 2302,
+      "end_time": 2304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what is your favorite sports team?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "04f11024-ea7d-42c4-8879-d1757baf1eca"
+    },
+    {
+      "start_time": 2306,
+      "end_time": 2363,
+      "annotation": [
+        {
+          "text": "Well, or if we're talking high school, certainly the Lufkin Panthers. I graduated from Lufkin and, uh, bleed Purple "
+        },
+        {
+          "text": ". Uh, my sports team, I'm a little different from some other folks, and I don't quite understand. Um, but I have my favorite teams within the state of Texas in college. My fir, my first choice is University of Texas, and I've always been, always will be. So if University of Texas playing some other team inside Texas, I'm pulling for the Longhorns. But if the Aggies are playing some team over in Louisiana, I'm gonna pull for the Aggies. If they've got Texas in their names or, or a school in Texas and they're playing somebody outside the state, then that's, uh, I'm gonna pull for the Texas team every time. One of the reasons"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "ebbe1033-e2c6-4817-b4ec-afc5f73f7c47"
+    },
+    {
+      "start_time": 2366,
+      "end_time": 2410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the, now you didn't ask me this, and maybe you are my least favorite college team, and let me finish up my favorite professional team. I do the same thing. Number one's cowboys number two, though, I still pull when those two, when the, or, uh, not the orders, the, uh, the Texans and, and, and Dallas play. I'm usually going to pull for Dallas, unless it means that they're out of the playoffs. And Houston can get in with a win. I'm probably going to pull for Houston. I won't see 'em in the playoffs. Um, but, um, what I was gonna say about the college side of this, I do not care if the University of Oklahoma is playing Tty Winks. I want them to lose"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a20140e1-84c9-4e5a-9917-be0de4ec2eab"
+    },
+    {
+      "start_time": 2411,
+      "end_time": 2411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d5d239c4-ed9d-4fa3-8246-0cc52bdb0c22"
+    },
+    {
+      "start_time": 2412,
+      "end_time": 2464,
+      "annotation": [
+        {
+          "text": "And here's the reason why. We had a good kid that was recruited by Texas and Texas a and m and Oklahoma, and he ended up going to Oklahoma. This is some years back. This is when Coach Outlaw was still alive. And I, and Coach Outlaw told me where he was going. And I said, well, here's what I'm gonna say about that. I hope he leads the league in tackles. I hope he never gets hurt. I hope he has an excellent season, and I hope he loses every game. "
+        },
+        {
+          "text": ". And that, and, and I've also made the statement that if there was a law passed that the University of Oklahoma could never know, not ever recruit in the state of Texas, they wouldn't win three games a year. And why a kid from Texas, I'm so proud of Texas, why would you go up there and bring glory to them? Anyway, now I'm preaching. So,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "423aa8b6-e2be-4a52-b19d-f8b3e911b3d4"
+    },
+    {
+      "start_time": 2465,
+      "end_time": 2472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I guess since it gives us a general answer, how would you say Texas as a whole has been doing lately in sports?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0451cedf-3df2-4a9d-98bb-f8d172b67a65"
+    },
+    {
+      "start_time": 2473,
+      "end_time": 2524,
+      "annotation": [
+        {
+          "text": "Oh, right, outstanding. I'm very excited about this, this, uh, upcoming season. And I'm, if, uh, if I'm gonna be real disappointed, if it's not, uh, a, a real success, and, uh, I, uh, I, I, yeah. The only, the only thing that distresses me a little bit is some of the students decided that the eyes of Texas has got a problem. And I, it's been there forever, and I just, I, I, anyway, sometimes it seems to me we look for problems where there are no problems. And, uh, I just, that aggravates me a little bit, but I'll always be behind the Longhorns and not, I, I hope they're back in the championship game. I, and, uh, they get it again. Matter of fact, I got a cap I started to wear today from the championship. "
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "6eba478f-a538-408e-97b6-538e76b76836"
+    },
+    {
+      "start_time": 2526,
+      "end_time": 2527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you have chores to do when you were younger?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "09e349b6-85af-45d6-a5bb-a18694a4665c"
+    },
+    {
+      "start_time": 2528,
+      "end_time": 2529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did I do what? Did you have"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cb0959da-c384-4d6a-928b-6406685a0389"
+    },
+    {
+      "start_time": 2529,
+      "end_time": 2530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chores to do when you were younger?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "66e6bf25-6055-40f6-bda6-5864e338456f"
+    },
+    {
+      "start_time": 2531,
+      "end_time": 2588,
+      "annotation": [
+        {
+          "text": "Oh, my, yes. "
+        },
+        {
+          "text": ", uh, absolutely. Uh, I, uh, uh, mowing the yard. My dad would, he worked shift work, and Saturday morning he would leave about six 30 to go to the paper mill. He'd wake me up and he'd say, and he'd get home about 3, 3 15, and he'd say, I want the shard mow when I get in. Now, it was amazing to me how quick three o'clock would roll around. And I've not mowed. If I'm cranking the lawnmower, I'm safe "
+        },
+        {
+          "text": ", but if I have not started the lawnmower, it is trouble. And, uh, yeah, I had, uh, and I, we had chickens for a while. I had to gather the eggs and got in trouble for busting eggs on a rooster. That was mean. And, uh, and, and those kind of things. And while we're talking here, I'll tell you a quick thing. Uh, my neighbors were kind of like my second set of grandparents, and I was probably"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a70192c7-172f-4cc7-b477-0a0e27253ea5"
+    },
+    {
+      "start_time": 2590,
+      "end_time": 2656,
+      "annotation": [
+        {
+          "text": "14 years old, 1515 probably. And they were having hay cut, just fell back here. And, uh, I was out there piddling around, and the guy that was hauling in the hay and putting it in the barn, it was bales of hay. They didn't do round bales back then. He asked me, he said, Hey, I need a little help. You, uh, interested in making some money. I went, yeah, and I hauled some hay before a little bit "
+        },
+        {
+          "text": ". And, uh, so we hauled hay. I thought we would quit at dark, and we didn't. We worked until about 10 30. And I come, I came dragging in. Now, this is my, I'm telling this story because of my dad. This was the kind of guy he was. And, uh, I, I got a bath, and he came in there and dragging. And he said, what time you gotta be out there again in the morning? I said, don't think I'm gonna go. And he said, uh, did you tell this fellow that you would help him with this field of hay? Uh, yes, sir. He said, then you're gonna go "
+        },
+        {
+          "text": ". He said, you don't have to go to the next field, but he's relying on you to help him get this hay in the barn. Now, you gotta know,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "9ec66bc4-6f86-4488-8163-f6ed3dd4cf31"
+    },
+    {
+      "start_time": 2657,
+      "end_time": 2712,
+      "annotation": [
+        {
+          "text": "I was the youngest of the crew. I was the last one on. And one of the worst jobs about hauling hay is they are outside throwing it into the crib to you. And you're inside the crib where there's no air, there's dust and stacking it and no wind. And that was part of the, the job. And then, so I'm out there the next day, and I grab a bale of hay and put it on my knee to throw it up to the guy stacking it on the truck. And there's a half a snake, the head half hanging out. And I almost tendered my, my, uh, resignation at that point, "
+        },
+        {
+          "text": ". But I, I toughed it on out. And, uh, at the end of the week, I think I, I worked all week and I think I made 20 bucks or something like that, "
+        },
+        {
+          "text": ". And the guy said, you want to go to the next field? I went, uh, no, I think my hay holidays are over. So, but it's a good lesson though. I never committed to doing a job. "
+        },
+        {
+          "text": " again, "
+        },
+        {
+          "text": ", tell my dad about,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "30f7f3d4-3b82-408e-ab3c-38c7038c9234"
+    },
+    {
+      "start_time": 2713,
+      "end_time": 2718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, uh, outta these chores, what would you say is the worst chore, or was the worst chore?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "32163cb8-934f-41fb-a84c-847bf9dc806d"
+    },
+    {
+      "start_time": 2718,
+      "end_time": 2784,
+      "annotation": [
+        {
+          "text": "The worst chore? Mm-hmm. Um, "
+        },
+        {
+          "text": ". Well, there was jobs we did that I did not like "
+        },
+        {
+          "text": ", but, uh, but day to day chore, um, I didn't like gathering the eggs because this rooster we had, he would try to spur you. I mean, he'd try to help flog you and, and, uh, you had to get a stick to get in the chicken yard and keep him at bay. That for some reason he wouldn't come in the chicken house. Mm-hmm. So I could get in there and gather eggs. And usually I didn't have very many, and I could take my stick and get back to the gate and get out. Well, this one day I had a bunch of eggs, "
+        },
+        {
+          "text": ", and I couldn't get my stick. And I'm looking out the door and I don't see him. And I head for the gate and he's laying in weight, and here he comes, I grab an egg and I bust it on his back, and he backs off of me. And then I grab another one before I'm thinking, and I hit him again. And he starts running. I hit him again, and I, and I got chicken squawking, and I got egg yo hanging there. And dad hears the commotion and he comes out there and he goes, he,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "1da77a26-8d67-4f4f-853d-439a5c9473e0"
+    },
+    {
+      "start_time": 2784,
+      "end_time": 2849,
+      "annotation": [
+        {
+          "text": "so, and then he spoke to me about busting eggs. And, uh, that was not a good conversation, "
+        },
+        {
+          "text": ". And so I hated that rooster. Finally, he ended up in a dumpling pot. And that was a happy day for me because, but, but I didn't like that. But then one time, "
+        },
+        {
+          "text": ", we had an old tiny septic system. We don't have the aerobic system. And that old ground where we lived was really not suitable, wasn't very sandy. Mm-hmm. And so we were always having trouble with that thing. And dad called a guy to have the septics tank pumped out. And the guys, they couldn't get there. And we were having problems. And he, he said, we're going to get out here and, uh, and dip this thing out. And I went, huh, "
+        },
+        {
+          "text": ". No. Surely not. Yes. So he had a little trailer behind the lawnmower and some cans and gar garbage and Grover gloves. And, and so we, uh, we, we dipped it out. So I had some chores I wasn't particularly fond of doing. He also had me one time, he raised a garden every year, every year, every year. And we had this little walk behind tractor, two wheel tractor."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7f8acef4-06fb-45b1-96f5-274294fbad67"
+    },
+    {
+      "start_time": 2850,
+      "end_time": 2909,
+      "annotation": [
+        {
+          "text": "And uh, he, uh, he, he had a turning plow. And then one February he, he said, I need you to, uh, break up the garden. I said, okay. And he said, I'm got something. He's gonna be working on something else. And this tractor, this little tractor thing, had a pulley that stuck out from the engine with a notch in it, and you had a rope with a wooden handle on it, and you wrapped it around that, and you yanked on it. And that's how you cranked it. It was cold, it was in, it was a cold state stay. And my ears were cold. And sometimes that thing would kind of backfire and that knot would slip out. Well, that's happened that day. And it popped me on my ear. And I take, before I think about it, I take this starting rope and I start beating on the tractor. "
+        },
+        {
+          "text": " just whamming away, whi away. And I look up and there's my dad looking at me. And he said, uh,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "2d666f17-7bdf-4b26-9540-e29f24e19ac6"
+    },
+    {
+      "start_time": 2911,
+      "end_time": 2932,
+      "annotation": [
+        {
+          "text": "he said, did that help "
+        },
+        {
+          "text": "? I said, well, it helps me. He said, well, get through with it and get busy when you "
+        },
+        {
+          "text": ". I said, okay. But anyway, those were some of the chores. That was a bunch of others. He always had, I, I made the mistake of telling him one time I was bored, "
+        },
+        {
+          "text": ". And he said, uh, get the hoe and come, go with me to the garden. I've got a nail for your board "
+        },
+        {
+          "text": ". I said, okay."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "e774f8d5-cd04-4231-a7d6-4f5e6eaa6bfd"
+    },
+    {
+      "start_time": 2934,
+      "end_time": 2936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was a chore? You didn't mind so much?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5f29226c-cf69-42bf-99bd-69a3759a1fe7"
+    },
+    {
+      "start_time": 2938,
+      "end_time": 2989,
+      "annotation": [
+        {
+          "text": "I, when I didn't mind. Uh, I didn't mind shelling. We had the garden. I didn't mind shelling peas because you're set in the shade. "
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": ". I didn't mind picking peas too much ever either. Uh, I didn't mind pulling the corn, uh, and that sort of thing. But that's probably the rest of I, my job was mowing and we had a push mower. We had a big yard. We didn't do weed eating back then. Nobody had a weed eater. But, uh, we didn't worry about that I guess. But, uh, I begged and begged it to buy a ride in lawnmower. I said, I'll mow it all the time. When I moved out, he bought a ride in lawn mower, "
+        },
+        {
+          "text": ". And I said, I said, why are you buying a ride in lawn mower now? He said, well, I didn't need one when you were here, "
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": ". I said, okay."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "6b97d436-4f51-4f79-ac7b-a8a7e69b4838"
+    },
+    {
+      "start_time": 2991,
+      "end_time": 2995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever get caught pretending to do a chore but not really doing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cb473e82-e642-4bdd-8b7a-21249645fe08"
+    },
+    {
+      "start_time": 2998,
+      "end_time": 3056,
+      "annotation": [
+        {
+          "text": "The first thing that pops into my mind was dad remodeled a house and we tore out an old garage. And, uh, my buddy, who is still my best friend, who's a retired attorney, lives down in Livingston. He, uh, and I were supposed to be pulling nails out of these boards. He was going to save from our old garage thing. And, uh, the army Navy game was on bad. Being in the Army, I'm pulling for Army. And it was kind of cold that day. I think he came and got us three times "
+        },
+        {
+          "text": " watching the football game, "
+        },
+        {
+          "text": ". And he said, I'm not coming after you again. It's gonna be a a, a whipping in this. I said, okay. So we, we, we finished pulling nails. We didn't, but yeah, I, I, I thought he was busy around the other side, couldn't see us. And we, we, we, we would get going for a little while, then we'd stop"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "future",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "72339efb-98f1-4d74-8eb1-767dac482527"
+    },
+    {
+      "start_time": 3057,
+      "end_time": 3062,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ". Some people think that it's hard for boys and girls to be friends. What do you think"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bd505822-61ea-4336-ad58-17b0be38dc9b"
+    },
+    {
+      "start_time": 3063,
+      "end_time": 3064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2c7f1f3d-31e8-47ee-8acb-5fe719731c90"
+    },
+    {
+      "start_time": 3064,
+      "end_time": 3068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think that it's hard for boys and girls to be friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9427c817-2673-4297-aa28-622f53a6b25b"
+    },
+    {
+      "start_time": 3069,
+      "end_time": 3078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I, you know, I think if you, if it doesn't matter if you have the same interest and, and, and good people are good people and no,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6e1e2ab6-329d-479d-b4a8-0245061f95e1"
+    },
+    {
+      "start_time": 3079,
+      "end_time": 3079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cf8599f6-2269-4e6d-9d7e-adb1fe126e4d"
+    },
+    {
+      "start_time": 3080,
+      "end_time": 3088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever tell a story about another person thinking the other person was not near you, but then turned around and saw that person was standing right next to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "84562589-978c-415b-b308-f0b9b25899e7"
+    },
+    {
+      "start_time": 3093,
+      "end_time": 3141,
+      "annotation": [
+        {
+          "text": "I'm trying to remember. I'm sure that happened. Uh, but, and I probably put it out of my mind, but, uh, uh, it wasn't me, but I worked for a savings and loan. At one point we had branches and Trinity and everywhere we had a radio system, a good one. We could talk back and forth. We had, we had, uh, hand the hell units and, uh, the boss and his, a couple of his folks had, were visiting some of the branches and they had the radio in the seat and they just left the branch. And the branch wasn't doing very well. And somebody pushed up against the button and transmitted, and they were talking about the branch manager. And everybody heard "
+        },
+        {
+          "text": ", but that wasn't me."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "205e293b-defb-4fad-b6d9-99059aae63d3"
+    },
+    {
+      "start_time": 3144,
+      "end_time": 3150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of people think the 1990s as the golden decade of pop music. Do you agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5c708cd1-67c2-4f6d-bd9d-27e122fa68e6"
+    },
+    {
+      "start_time": 3153,
+      "end_time": 3168,
+      "annotation": [
+        {
+          "text": "Yeah, probably. So. I, I'm not a big pop, you know, I, I'm stuck in the sixties and the seventies. I'm the Eagles and the "
+        },
+        {
+          "text": " and, and those guys and, uh, country and western. But, uh, uh, but yeah, there's some of that, some of that music I like. But, uh,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5a34b7dd-ae4e-4c9e-922a-6147bdb10c44"
+    },
+    {
+      "start_time": 3170,
+      "end_time": 3171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fdb7747f-8c26-4790-906c-f15019b6dde3"
+    },
+    {
+      "start_time": 3171,
+      "end_time": 3214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well thank you so much for your answers. I really picked, really appreciate you taking time to talk with me. If you have the time, I just have one last request for you before we conclude the interview. One of the overarching research questions through the Home of Texas program is about linguistic changes in Texas. As a part of this project, a linguistic researcher is asking that interview participants read a brief passage, which should only take a couple of minutes. It's a short made up story about life in Texas that was created in the 1980s. And since then, linguistic researchers have recorded a few hundred Texans reading it. They use these recordings as samples of people's standard way of speaking as they try to track how speech in Texas varies and changes over time. Would you be willing to read this passage out loud?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e3216aae-146f-47fc-811a-313723b084cf"
+    },
+    {
+      "start_time": 3215,
+      "end_time": 3222,
+      "annotation": [
+        {
+          "text": "Okay, let me see what you got. I mean, uh, let me see. Read. I don't hear very well. "
+        },
+        {
+          "text": ". And, and, and you,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a3fdd175-0424-48f6-9efa-3c9d6891c898"
+    },
+    {
+      "start_time": 3224,
+      "end_time": 3225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You done it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d8dfed96-d858-460f-b64a-bdd873e014e7"
+    },
+    {
+      "start_time": 3253,
+      "end_time": 3254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Alright,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "84113b9c-ef08-49ba-9dcc-ef8e3b2cfcd9"
+    },
+    {
+      "start_time": 3255,
+      "end_time": 3256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here's the passage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1076003e-1091-4909-8dad-3dfe5189ceeb"
+    },
+    {
+      "start_time": 3256,
+      "end_time": 3268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, that's what you, okay. So you, now let me be sure I understand. You want me to read this out loud or do you want me to, uh, read it out loud? Read it out loud? Mm-hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4676eb13-454a-4647-bece-faa5f0a15b7a"
+    },
+    {
+      "start_time": 3269,
+      "end_time": 3269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "interviewer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d28fbff5-4d5b-477a-9258-092a4a947ca9"
+    },
+    {
+      "start_time": 3272,
+      "end_time": 3338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've lived in Texas all my life. I was born in Titus County and when I was five we moved to a farm near White House, which is Southeast Tyler. I liked growing up in the country when my chores were done, I'd ride my horse climb trees or hike down to the creek to fish or swim. One time we tied a rope to a limb of a cypress tree and would swing out wide over the swimming hole and drop into the water. I'd pretended to be Tarzan swinging on a vine. In the spring, I'd fly kites and on summer nights we'd catch fireflies, but we called them lightning bugs. Once in a while we'd have fights with corn cobs or pine cones. In the winter, we'd build a fire, uh, in the fireplace and pop popcorn and roast peanuts and pecans. I guess I was a live wire When I was 19, I went to work in Dallas at a Firestone Tire store. I didn't like city life and for a long time I'd go home every chance I got. Mama would always cook my favorite food. Fried okra hop in John, that's rice and black-eyed peas and pecan pie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "a223072a-b669-4473-a3bc-f4505add326e"
+    },
+    {
+      "start_time": 3339,
+      "end_time": 3386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had lots of good times, but going home is not the same. Now after daddy died, mom sold the farm and moved to Tyler. I'd rather be living on a farm right now instead of here in the city. But my wife and kids don't understand me. When I gripe about city life and talk about moving to the country, my oldest child says, daddy, that's crazy. I'd just die if I had to live on a farm. I almost cried the first time she said that. I know Texas is changing, but I try to make sure we don't lose touch with our roots while we may live in a city. I want my kids to have a good feeling for the land, have a sense of place, and take pride in being Texans. If they lose our ties to the land, the pro progress is too high. Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "identity",
+          "category": "Topic"
+        },
+        {
+          "tag": "sense of place",
+          "category": "Topic"
+        },
+        {
+          "tag": "generational relations",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "3380cf6b-ed0d-4da3-b1a7-9b173ed903cb"
+    },
+    {
+      "start_time": 3387,
+      "end_time": 3397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for contributing your voice to the collection and thank you so much for taking time to share your experience with me. I really appreciate your time and generosity. If you don't have any other questions or comments, I'll go ahead and stop the recording now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "308edb24-4510-436f-bd80-e73427d3e2cd"
+    },
+    {
+      "start_time": 3399,
+      "end_time": 3465,
+      "annotation": [
+        {
+          "text": "You know, based on how we talk now talk just a second about my, my grandpa cows. My dad's dad had a little farm, probably 60 acres. The house had the old dog trot, no indoor plumbing. And there's a story about that. I'll tell you for another time. Um, my grandpa could not, he could not read, he could not write, he could write his name. Um, worked all of his life hard. That's all he knew. He cut logs, he cut trees, and um, he, uh, he would come in and his shirt would be strict with white stripes of salt where his sweat had had left. And the way he talked, it's funny, I'd pick up some of it when I'm there, then I would lose it when I would go away "
+        },
+        {
+          "text": ". But they would say things like, I couldn't remember. He said, you know,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "b4b3be82-ab8f-4add-816d-91f449edd8bb"
+    },
+    {
+      "start_time": 3466,
+      "end_time": 3530,
+      "annotation": [
+        {
+          "text": "uh, I told John that when, when, when he went to get that cow, I'd hope him, if he needed me to help him get it in the lot. And so the words they used were, were different. As a matter of fact, I wrote, I'm, I record some stuff. I wrote a thing the other day that I said something to my wife or somebody was here. And uh, I said, uh, uh, I said, they stayed just a second and they left. And I said, well, don't you come after a cold of fire. And she looked at, what, what are you talking about "
+        },
+        {
+          "text": "? And I thought, you know, a lot of folks may not know this, but in the old days, in those days, in his days, all they had for heat was fireplace. And if you ran out of matches or you couldn't afford matches, which might've been the case many times, all you to start to get a fire going again. The thing you did was you go down to the neighbor and ask for cola his fire, but you couldn't stay. You had to get the coal and get back "
+        },
+        {
+          "text": " before it went out. So"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3511e503-6dbc-4ad6-8332-e3fdf28fc962"
+    },
+    {
+      "start_time": 3532,
+      "end_time": 3597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they had those kind of sayings and, and, and I picked up some of 'em and my wife, one of one of the other ones, I'll tell you and then we move on. But let me back up for a second and tell you about, you know, and, and my grandfather would be one of those people that you said was, he believed the earth was flat, didn't believe man went on the moon. And the reason he did, he'd have my dad read the Bible to him from time to time when we'd go down there mm-hmm. And he said, the Bible speaks to the four corners of the earth that I was talking about is north, south, east and west. But that's not the way he saw it. He said, you can't make a circle out of a square. If there's four corners, there's not a circle. So that was his rationale on that. But he was honest as the day was long. And my point in this, and I wanted to say this, is while he was not educated as you would think of being educated, he could tell you when to plant how deep to plant, which cows most likely to have a calf, which cows most likely to produce the most milk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2ab0ed70-1cb8-4e55-89ee-e301bc74c7ea"
+    },
+    {
+      "start_time": 3598,
+      "end_time": 3661,
+      "annotation": [
+        {
+          "text": "He possessed knowledge that I don't possess. Mm-hmm. That would help you live if you had to in a different world, uh, without electricity and stuff. Mm-hmm. And they had, they had some, but one of the other things, and then I'll stop 'cause there's a bunch of them, but, uh, um, we were talking about, some of us were talking about where to go eat after church one day. And my dad said, I asked him, I said, dad, where do you want to go? He said, uh, well, I'm kind of like up sounds, but I'll work the side of the tongue "
+        },
+        {
+          "text": ". Now, do you have any idea what he's talking about, "
+        },
+        {
+          "text": "? No. My wife didn't either. Well, here's, here's the deal. When the old days when you had a wagon and you had two mules, mules can be stubborn. And many, many times a mule would only work on the left side of the wagon tongue and he would only work, or the other one would only work on you. Couldn't make 'em switch out, wouldn't do it."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "796bc8d9-7bfe-409b-b980-588090b2d0b9"
+    },
+    {
+      "start_time": 3662,
+      "end_time": 3725,
+      "annotation": [
+        {
+          "text": "But you find a mule work either side. Now he's easy going, "
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": ". And so, uh, there's, they want to know about, you know, what old sayings "
+        },
+        {
+          "text": ". And those are a couple. And, and uh, and I don't know if these are some that my dad brought over, but, uh, he's, I've written down some of his, he has a bunch of 'em, "
+        },
+        {
+          "text": ", one of 'em was when I do something foolish, which is often he would, uh, he'd look at me and he'd go, son, if you fell in the river, I'd go upstream to look for you. 'cause I'm going to float the opposite way. "
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": ". And, uh, and he had some that one that I have to a hard time remembering, but that's really a, when I would complain to him about something wrong that had, he would tell me two things I said, I said, that guy is just not right, dad. He's, he's not fair. That they, he said, Hey, first of all,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "5dd9f566-d053-4c22-aacc-d75235742650"
+    },
+    {
+      "start_time": 3726,
+      "end_time": 3789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "life's not fair. And if you want fair, you're gonna have to wait till October. That's when it comes to town, because that's the only fair I know. And the other thing I'm gonna tell you is two horses bind have never made a horse. One of you have gotta be the head and do the thinking. It's, I going, do you, I'll try. And that ain't always easy, but good advice. I, I've got a bunch if you want for, but, uh, my grandpa told my cousin one time was helping him in the garden. He thought he was doing a good thing, but he was trying to make it look nice. And he's over here hoeing, not, not hoeing the row. Paul Caps looked at him and he said, son, you lose a crop hole in the corner of the garden. And I thought, you know, that's good advice. It looks nice, but you're not doing anything productive. You just piddling. And, uh, so he, uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3e9292dc-351a-437f-8a62-a8c99bda7378"
+    },
+    {
+      "start_time": 3791,
+      "end_time": 3853,
+      "annotation": [
+        {
+          "text": "he, he was, he was in many ways, was a really, uh, uh, a smart fellow. And uh, he, uh, he was at a brush arbor meeting one time. This is my dad's story. He said, uh, he was a stout. He wasn't real tall. My dad's mom's family was 6 3, 6 4. So my dad was six one, I'm about six, but Paul Kelps was probably five 10, maybe a little more. But he was stocky strong. Mm-hmm. And, uh, they went to this brush harbor meeting and the preacher was going on and on and on. And, uh, Paul had to go to the bathroom. So he got up and was working his way out to go, I guess out behind a tree, I don't know, "
+        },
+        {
+          "text": ". And the preacher said, aha. There goes one that got his corn shelled made Paul mad. And Paul looked at him and he said, tell you what fella, you come down the road with ways I'll shell you corn "
+        },
+        {
+          "text": ". He, so, uh,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "adb7ce46-2983-4e53-a9ac-f2d461c04f70"
+    },
+    {
+      "start_time": 3854,
+      "end_time": 3907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he, he was sometimes no nonsense. He told me, I don't have it on me right now, but he would. Uh, I, we went to see him one time and he's, he always kept a yellow handle case, pocket knife. And he was sharpening it, kept it razor sharp. And uh, he was sharpening it when I got up there and he was showing me how he'd do it and all. And he said, uh, he said, now lemme tell you that's another way he was wise. He said, you get your mama. He said, if you get you one of these knives, get your mama to put a baked potato in the oven and get it hot. And when it's hot, you stick that knife in and leave it so long. I've forgotten how long. He said, take it out, hit it a few licks, put it in cold water and do it again. And he said, it'll be set, you'll hold edge. And I said, okay. And he said, but let me show you. He said, you need one of these. He said, first of all, case makes a good knife."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "cb2c492a-a15a-4303-b503-38d0c4e5f6fe"
+    },
+    {
+      "start_time": 3908,
+      "end_time": 3971,
+      "annotation": [
+        {
+          "text": "He said, second of all, the reason you want a yellow handle case is because if you drop it in the woods, you never will find a bone handle and then leaves, you'll find this yellow handle one pretty easy. "
+        },
+        {
+          "text": ". I carried a yellow handle case for years, "
+        },
+        {
+          "text": " what my paw caps told me. And so, uh, they, uh, I have had a life insurance license and I had to go to these seminars to maintain, do continuing education. And, uh, this guy was talking about investments and how the people, many people retire at poverty level. You need to diversify your portfolio and stuff. And I said, at the end of the day, I said, uh, you know, I have a grandfather that probably would you qualify as poverty level. I said, but lemme tell you something about him. He didn't care. The first thing about going to Hawaii, he didn't even go to Houston."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6f86b854-6e53-4b33-935a-accc4680edb5"
+    },
+    {
+      "start_time": 3972,
+      "end_time": 4035,
+      "annotation": [
+        {
+          "text": "I said one time we were coming back from Houston. He and I was to see his brother. Mm-hmm. And there's two things I remember about that trip. I was probably 10 years old. And one of 'em was, we just got out, finally got out of the Houston traffic and he said, I'm gonna tell you one thing. If Carl see me, he'll come to Lu I or die ball. He lived out at Eyeball. He said, I ain't coming back to this place "
+        },
+        {
+          "text": ". We, we got to the, to the Natures River Bridge. And when we got across the bridge, he looked over at me at, so he said, we back in the United States now. So I said, that's the way he saw it, "
+        },
+        {
+          "text": ". But, uh, he was a, he was a fine fellow, and my dad was as good as gold. My mom was, uh, super. I've written some stories, uh, written a lot of 'em. I need to keep, uh, ball 'em together, uh, of, of things that they've done. But, um, but they, they talked all together different,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "7c9dcce3-2373-44fe-9240-eb8ebdfcfe6a"
+    },
+    {
+      "start_time": 4036,
+      "end_time": 4101,
+      "annotation": [
+        {
+          "text": "uh, I mean, it was the deep south "
+        },
+        {
+          "text": ", you know, and, uh, but, uh, I, uh, I was, I'm very fortunate. I had, uh, uh, my mother's, my mother was a Bridges and she grew up in the Herbie area. Mm-hmm. And, uh, my grandpa Bridges old place's, a old rock house right across from Herbie School. He used to raise crops where her school sits. I don't know that that was his land, but he, he did that. And, uh, his name was Harold Richardson. I, I wasn't as close to him. He was kind of a rough, uh, not as open as my grandpa caps. And I mean, we got along and all that. But, uh, he worked probably he could play a fiddle. Well, he could play a fiddle. I have it. I ended up with it. Can't play it, but I've got it "
+        },
+        {
+          "text": ". But, uh,"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "change",
+          "category": "Topic"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        },
+        {
+          "tag": "infrastructure and services",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "58a82e22-d8c7-47ed-81b8-b03c5187563e"
+    },
+    {
+      "start_time": 4103,
+      "end_time": 4161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "uh, anyway, well, I, uh, I like to talk, tell, so I got some stories, got things. Uh, but, uh, I hope that was kind of what you were looking for on that. Well, yeah, thank you. You gave me some really good, you bet. Very proud of the guy. I think a lot of your mom and, and, uh, and, uh, the, the whole family. Felipe was a customer at the bank. I've known Felipe for a long time. Actually, I didn't do a lot with him, m and the other, the other guy. But, uh, but, uh, but he works, uh, uh, that's, he's a working guy. He don't mind working. And, uh, anybody that works, I respect them. They, uh, just, uh, uh, are good folks. I know Vanessa's mom, I, I've not been around too much, but she's a very nice lady at the times I've been around her sweetheart. And, uh, but, uh, uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        },
+        {
+          "tag": "livelihood and economy",
+          "category": "Topic"
+        }
+      ],
+      "uuid": "45e8fd91-5898-46d6-ad00-4e40a31c91da"
+    },
+    {
+      "start_time": 4162,
+      "end_time": 4170,
+      "annotation": [
+        {
+          "text": "but you're liking it out there Okay. And everything. You're good. Good. You ain't get homesick. If you don't mind. I'm gonna stop the recording. Oh, yeah, yeah. "
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "tag": "participant",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0bebb967-8c7e-48f0-9767-5b55d4e32e92"
+    }
+  ],
   "set": "Default",
   "event_id": "dfa93645-185e-471d-93a4-61a5b325fd2f",
   "source_id": "4011c1c1-a295-4043-92f8-2496eb452c2e"
