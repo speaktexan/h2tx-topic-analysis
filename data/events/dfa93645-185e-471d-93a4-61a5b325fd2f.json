@@ -1,5 +1,15 @@
 {
-  "audiovisual_files": {},
+  "audiovisual_files": {
+    "4011c1c1-a295-4043-92f8-2496eb452c2e": {
+      "label": "NR 06192024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/nr-06192024_202603/NR_06192024.MP3",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Audio"
+    }
+  },
   "auto_generate_web_page": true,
   "description": [
     {
@@ -15,6 +25,10 @@
   "label": "language lufkin nr 06192024",
   "created_at": "2026-03-17T18:21:11.272Z",
   "created_by": "speaktexan",
-  "updated_at": "2026-03-17T18:21:11.272Z",
-  "updated_by": "speaktexan"
+  "updated_at": "2026-03-17T18:22:52.627Z",
+  "updated_by": "speaktexan",
+  "av_file_order": [
+    "4011c1c1-a295-4043-92f8-2496eb452c2e"
+  ],
+  "rights_statement": "https://creativecommons.org/licenses/by-nd/2.5/"
 }
